@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tv/argentina.epg.xml,https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
-#EXTINF:-1 tvg-ID="ext" tvg-name="NG FEDERAL CHACO" tvg-logo="https://pbs.twimg.com/profile_images/1520248287202365440/DqQ5t3MO_400x400.jpg" NG FEDERAL CHACO
+#EXTINF:-1 tvg-ID="ext" tvg-name="NG FEDERAL CHACO" tvg-logo="https://pbs.twimg.com/profile_images/1520248287202365440/DqQ5t3MO_400x400.jpg", NG FEDERAL CHACO
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1353" tvg-name="Ciudad TV Resistencia" tvg-logo="https://cdn.m3u.cl/logo/1353_Ciudad_TV_Resistencia.png", Ciudad TV Resistencia | AR 
@@ -14,14 +14,11 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="https://i.imgur.com/mSn7ACs.png",5tv Corrientes 
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="ext" tvg-name="TELENORD CORRIENTES" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",TELENORD CORRIENTES
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELENORD CORRIENTES" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",TELENORD Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1237" tvg-name="Corrientes TV" tvg-logo="https://cdn.m3u.cl/logo/1237_Corrientes_TV.png", Corrientes TV | AR 
-https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8?
+#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="https://i.imgur.com/mSn7ACs.png",5tv Corrientes 
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-name="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
@@ -35,8 +32,8 @@ https://anym3u8player.com/youtube.php/id/6962c2f49f927.m3u8
 #EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar",LN+ Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c34ce393e.m3u8
 
-#EXTINF:-1 tvg-name="Telefe Noticias Ⓨ" ,Telefe Noticias Ⓨ
-https://anym3u8player.com/youtube.php/id/6962c514ed347.m3u8
+#EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj", C5N Ⓨ
+https://anym3u8player.com/youtube.php/id/6963e441a9065.m3u8
 
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" ,A24 Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c3a96c58a.m3u8
@@ -44,20 +41,14 @@ https://anym3u8player.com/youtube.php/id/6962c3a96c58a.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963c6340afc3.m3u8
 
-#EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj", C5N Ⓨ
-https://anym3u8player.com/youtube.php/id/6962c46e483c7.m3u8
-
-#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA Ⓨ" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png",TV PÚBLICA Ⓨ
-https://anym3u8player.com/youtube.php/id/6963c4b0157cb.m3u8
-
-#EXTINF:-1 , Argentina 12 Ar|12 Ⓨ
+#EXTINF:-1 , Ar|12 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963c8fec07e8.m3u8
 
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-logo="https://i.imgur.com/4hDCB1M.png",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-name="Telefe Noticias Ⓨ" ,Telefe Noticias Ⓨ
+https://anym3u8player.com/youtube.php/id/6962c514ed347.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
@@ -74,6 +65,9 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 tvg-id="CanalSiete.ar@SD",Canal Siete Mendoza Ⓨ
 https://anym3u8player.com/youtube.php/id/6963c7bf32537.m3u8
 
+#EXTINF:-1 , Canal 8 San Juan Ⓨ
+https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
+
 #EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-name="Canal 2 Misiones" tvg-logo="https://i.imgur.com/YqTNXDf.png",Canal 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
@@ -83,38 +77,17 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 España
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+
+#EXTINF:-1 , Canal Rural Ⓨ
+https://anym3u8player.com/youtube.php/id/6963ccb7ef186.m3u8
+
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8 
 
 #EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036 
- 
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png", Magic Kids 
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://cdn.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
-http://animezonetv.net/hls/stream.m3u8?
-
-#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png", Super Kaos TV 
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8 
-
-#EXTINF:-1, tvg-logo="HOfGX6a.png" , Locomotion | SD
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1 , Anime en Español
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1 tvg-id="AnimeVision.es@SD",Anime Vision (1080p)
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD",Anime Vision Classics (1080p)
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 (1080p)
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-
-#EXTINF:-1 tvg-id="XLevelMedia.ar@SD",X Level Media
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-
-#EXTINF:-1 , Anime
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-id="CineAr.ar",Cine.AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
@@ -146,14 +119,53 @@ https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 tvg-id="VTV.ar" tvg-name="VTV" tvg-logo="https://i.imgur.com/TLaausJ.png",VTV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
-#EXTINF:-1 , Canal Rural Ⓨ
-https://anym3u8player.com/youtube.php/id/6963ccb7ef186.m3u8
+#EXTINF:-1 tvg-id="XLevelMedia.ar@SD",X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
-#EXTINF:-1 , El Chavo del 8 Ⓨ
-https://anym3u8player.com/youtube.php/id/6963cbb64046b.m3u8
+#EXTINF:0 channel-id="cine-premiere" channel-number="4090" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Premiere", Cine Premiere 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a8aa-c01c-11f0-a8c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3cadf2f3-c69c-493d-9d43-7dac1865ab0f&userId=&serverSideAds=true 
+
+#EXTINF:-1 channel-id="pluto-6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" , Cine Western
+https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
+
+#EXTINF:0 channel-id="nick-en-espanol" channel-number="3780" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nickelodeon en español", Nickelodeon
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cdc8-c01c-11f0-a429-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14f14a1e-f777-4e57-9677-d089c7518e41&userId=&serverSideAds=true 
+
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png", Magic Kids 
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://cdn.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
+http://animezonetv.net/hls/stream.m3u8?
+
+#EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png", Super Kaos TV 
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="Locomotion.ar" tvg-logo="HOfGX6a.png" , Locomotion | SD
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1 ,Anime en Español
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1 tvg-id="AnimeVision.es@SD", Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD", Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 ,Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 , Tom y Jerry Ⓨ
+https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
 
 #EXTINF:-1 , Puente Gral Belgrano Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cc4267027.m3u8
+
+#EXTINF:-1 , Estacion Espacial Internacional Ⓨ
+https://anym3u8player.com/youtube.php/id/6963d1f6afc4e.m3u8
+
+#EXTINF:-1 , Animales Salvajes Ⓨ
+https://anym3u8player.com/youtube.php/id/6963d3a2c21d4.m3u8
 
 #EXTINF:-1 , Radio Rivadavia Ⓨ
 https://anym3u8player.com/youtube.php/id/6963ccf61fc8c.m3u8
@@ -166,18 +178,6 @@ https://anym3u8player.com/youtube.php/id/6963cb06f3145.m3u8
 
 #EXTINF:-1 , Radio 10 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cdb98a0e9.m3u8
-
-#EXTINF:-1 , Canal 8 San Juan Ⓨ
-https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
-
-#EXTINF:-1 , Tom y Jerry Ⓨ
-https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
-
-#EXTINF:-1 , Estacion Espacial Internacional Ⓨ
-https://anym3u8player.com/youtube.php/id/6963d1f6afc4e.m3u8
-
-#EXTINF:-1 , Animales Salvajes Ⓨ
-https://anym3u8player.com/youtube.php/id/6963d3a2c21d4.m3u8
 
 #EXTINF:-1 , Viking Slavic Pagan Radio Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d3f42ae4d.m3u8
@@ -218,6 +218,8 @@ https://www.youtube.com/live/sVTlJitGMDE?si=l_xMb6GZJ5VqSyn7
 #EXTINF:-1 , Dark Minimal Techno Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d8a0d9b1a.m3u8
 
+
+
 Canales que no andan:
 A24
 El Trece
@@ -231,6 +233,7 @@ Locomotion
 Anime TV 
 Animevision
 Cartoon Network
+
 
 Algunos links importantes 
 https://instagram.com/latamgrouph
@@ -249,6 +252,13 @@ https://www.telegratishd.com
 https://www.cablevisionhd.com
 https://www.telextrema.com
 https://mihd.tv
+
+
+
+
+
+
+
 
 TELEFE HD
 http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
@@ -309,4 +319,30 @@ http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
 TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
+
+
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
