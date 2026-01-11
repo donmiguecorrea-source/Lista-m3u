@@ -265,79 +265,33 @@ https://mihd.tv
 
 
 
-
-
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Spain",Rakuten TV Action Movies Spain (1080p)
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Cine Español (1080p)
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain",Rakuten TV Comedy Movies Spain (1080p)
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Crime Series Spain (1080p)
-https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Spain",Rakuten TV Drama Movies Spain (1080p)
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Spain",Rakuten TV Family Movies Spain (1080p)
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Romance Movies Spain (1080p)
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Sci-Fi Spain
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Thrillers Spain (1080p)
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Spain",Rakuten TV Top Movies Spain (1080p)
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="",Rakuten TV Trailers Spain (1080p)
-https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8
-
-#EXTINF:-1 tvg-id="CineFriki.es@SD",Zylo Cine Friki (1080p)
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-#EXTINF:-1 tvg-id="CineFriki.es@SD",Zylo Cine Friki (1080p)
-https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.es@SD",Zylo Cine Western (1080p) [Geo-blocked]
-https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.es@SD",Zylo Cine Western (1080p)
-https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 tvg-id="TodoNovelas.es@SD",Zylo Todo Novelas (1080p) [Geo-blocked]
-https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-id="TodoNovelas.es@SD",Zylo Todo Novelas (1080p)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 
 
-
-
-
-
-
-#EXTINF:0 channel-id="cine-clasico" channel-number="4110" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Clásico" tvc-guide-description="Sumérgete en la época dorada del cine con auténticos clásicos de México, España y más. Ríe, llora y enamórate con estas películas premiadas, actuaciones estelares y joyas independientes que incluyen comedia, drama, romance y mucho más en Cine Clásico." group-title="En Español", Cine Clásico 
+#EXTINF:0 channel-id="cine-clasico" channel-number="4110" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Clásico", Cine Clásico 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aa08-c01c-11f0-887c-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da77f0f6-1b51-4813-b258-a42a64002f80&userId=&serverSideAds=true 
 
-#EXTINF:0 channel-id="cine-aventura" channel-number="4120" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" tvc-guide-art="https://images.pluto.tv/channels/60fb2f47c133270007327375/featuredImage_1757954279355.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine aventura" tvc-guide-description="¡Ponte cómodo porque no querrás perderte ni un segundo de las mejores películas llenas de aventuras con los héroes más valientes e inesperados! Cine aventura te mantendrá al borde de tu asiento." group-title="En Español", Cine aventura 
+#EXTINF:0 channel-id="cine-aventura" channel-number="4120" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" tvc-guide-art="https://images.pluto.tv/channels/60fb2f47c133270007327375/featuredImage_1757954279355.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine aventura", Cine Aventura 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aac6-c01c-11f0-8584-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4e54b3-d7bf-467b-a218-52d10831d5f3&userId=&serverSideAds=true 
 
-#EXTINF:0 channel-id="cine-adrenalina" channel-number="4130" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine adrenalina" tvc-guide-description="Tu boleto para los éxitos más grandes de taquilla está en Cine adrenalina. Las películas más rompedoras de acción, emoción y aventura las tenemos aquí. Solo en Pluto TV." group-title="En Español", Cine adrenalina 
+#EXTINF:0 channel-id="cine-adrenalina" channel-number="4130" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Adrenalina", Cine adrenalina 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ab70-c01c-11f0-9fc8-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ceb34b1-f949-44ba-ad24-dca6fbd4b716&userId=&serverSideAds=true 
 
-#EXTINF:0 channel-id="mas-adrenalina" channel-number="4132" tvg-logo="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png" tvc-guide-art="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/featuredImage_1755151030750.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Más adrenalina" tvc-guide-description="Pluto TV te trae otro rincón más donde encontrar lo que te gusta: pelis y patadas." group-title="En Español", Más adrenalina 
+#EXTINF:0 channel-id="mas-adrenalina" channel-number="4132" tvg-logo="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png" tvc-guide-art="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/featuredImage_1755151030750.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Cine Más Adrenalina 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/687fea9a4fa995eff284a1c8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6abca-c01c-11f0-8155-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1d4c5cd-66ea-4664-b15b-76679c35c94f&userId=&serverSideAds=true 
 
-#EXTINF:0 channel-id="cine-crimen" channel-number="4135" tvg-logo="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png" tvc-guide-art="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/featuredImage_1751915821616.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Crimen" tvc-guide-description="Encuentra aquí fascinantes historias de crímenes, misterios difíciles de explicar e investigaciones tortuosas. El cine preferido del detective que llevas dentro." group-title="En Español", Cine Crimen 
+#EXTINF:0 channel-id="cine-crimen" channel-number="4135" tvg-logo="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png" tvc-guide-art="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/featuredImage_1751915821616.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Crimen", Cine Crimen 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686c1c873ffa5e0c91a85938/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac24-c01c-11f0-b52f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce4c7f59-3469-4a8f-87c1-947ec27d7e37&userId=&serverSideAds=true 
 
-#EXTINF:0 channel-id="cine-terror" channel-number="4140" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine terror" tvc-guide-description="¡Aguanta la respiración, tápate los ojos y no hagas ruido! Todos los días, Cine terror te trae los más aterradores y escalofriantes éxitos del cine de miedo, suspense y terror en español y doblados. Todo para asegurarnos de que no puedas dormir." group-title="En Español", Cine terror 
+#EXTINF:0 channel-id="cine-terror" channel-number="4140" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Terror", Cine Terror 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac88-c01c-11f0-8c46-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22d2c7aa-5019-40f9-a408-7e88d0729058&userId=&serverSideAds=true 
 
-#EXTINF:0 channel-id="cine-comedia" channel-number="4150" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png" tvc-guide-art="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/featuredImage_1757954350105.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine comedia" tvc-guide-description="Agarra las palomitas pero... cuidado con atragantarte, porque Cine comedia hará que te partas de risa con estos genios del humor. La misión es hacerte reír sin parar hasta que no puedas más." group-title="En Español", Cine comedia 
+#EXTINF:0 channel-id="cine-comedia" channel-number="4150" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png" tvc-guide-art="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/featuredImage_1757954350105.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Cine Comedia 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ace2-c01c-11f0-b297-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1c225d9-5099-4a7e-827d-63356bfd2d9d&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="cine-amor" channel-number="4160" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png" tvc-guide-art="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/featuredImage_1757957533592.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Amor" tvc-guide-description="Si eres una persona incorregiblemente romántica, invita a tu media naranja a disfrutar juntos de las comedias más amorosas, los dramones con final feliz y las mejores historias épicas que solo se miran abrazaditos." group-title="En Español", Cine Amor 
+#EXTINF:0 channel-id="cine-amor" channel-number="4160" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png" tvc-guide-art="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/featuredImage_1757957533592.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Amor", Cine Amor 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ad46-c01c-11f0-a309-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee9a1e51-e102-4c45-910f-28a0f7aa9e16&userId=&serverSideAds=true 
-
-#EXTINF:0 channel-id="cine-navideno-ptv1" channel-number="4165" tvg-logo="https://images.pluto.tv/channels/6334a4d7ae975100073994a2/colorLogoPNG_1761088385653.png" tvc-guide-art="https://images.pluto.tv/channels/6334a4d7ae975100073994a2/featuredImage_1761088386655.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine navideño" tvc-guide-description="Las mejores películas y especiales navideños están en un solo lugar: Cine navideño. Reúne a toda tu familia y prepárense para descubrir que este canal es el mejor regalo para disfrutar." group-title="En Español", Cine navideño 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a4d7ae975100073994a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ada0-c01c-11f0-a0dc-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d5102f03-2378-4ab3-80c4-45eb59ee6ca1&userId=&serverSideAds=true 
-
-
-
 
 
 
