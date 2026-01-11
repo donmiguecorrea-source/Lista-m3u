@@ -113,11 +113,41 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:0 channel-id="cine-premiere" channel-number="4090" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Premiere", Cine Premiere 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a8aa-c01c-11f0-a8c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3cadf2f3-c69c-493d-9d43-7dac1865ab0f&userId=&serverSideAds=true 
 
-#EXTINF:-1 tvg-id="ChilecitoTV.ar" tvg-name="Chilecito TV" tvg-logo="https://i.imgur.com/zGubmgZ.png",Chilecito TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:0 channel-id="cine-clasico" channel-number="4110" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Clásico", Cine Clásico 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aa08-c01c-11f0-887c-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da77f0f6-1b51-4813-b258-a42a64002f80&userId=&serverSideAds=true 
 
-#EXTINF:-1 tvg-id="XLevelMedia.ar@SD",X Level Media
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:0 channel-id="cine-aventura" channel-number="4120" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" tvc-guide-art="https://images.pluto.tv/channels/60fb2f47c133270007327375/featuredImage_1757954279355.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine aventura", Cine Aventura 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aac6-c01c-11f0-8584-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4e54b3-d7bf-467b-a218-52d10831d5f3&userId=&serverSideAds=true 
+
+#EXTINF:0 channel-id="cine-adrenalina" channel-number="4130" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Adrenalina", Cine Adrenalina 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ab70-c01c-11f0-9fc8-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ceb34b1-f949-44ba-ad24-dca6fbd4b716&userId=&serverSideAds=true 
+
+#EXTINF:0 channel-id="mas-adrenalina" channel-number="4132" tvg-logo="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png" tvc-guide-art="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/featuredImage_1755151030750.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Cine Más Adrenalina 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/687fea9a4fa995eff284a1c8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6abca-c01c-11f0-8155-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1d4c5cd-66ea-4664-b15b-76679c35c94f&userId=&serverSideAds=true 
+
+#EXTINF:0 channel-id="cine-crimen" channel-number="4135" tvg-logo="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png" tvc-guide-art="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/featuredImage_1751915821616.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Crimen", Cine Crimen 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686c1c873ffa5e0c91a85938/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac24-c01c-11f0-b52f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce4c7f59-3469-4a8f-87c1-947ec27d7e37&userId=&serverSideAds=true 
+
+#EXTINF:0 channel-id="cine-terror" channel-number="4140" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Terror", Cine Terror 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac88-c01c-11f0-8c46-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22d2c7aa-5019-40f9-a408-7e88d0729058&userId=&serverSideAds=true 
+
+#EXTINF:0 channel-id="cine-comedia" channel-number="4150" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png" tvc-guide-art="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/featuredImage_1757954350105.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Cine Comedia 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ace2-c01c-11f0-b297-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1c225d9-5099-4a7e-827d-63356bfd2d9d&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cine-amor" channel-number="4160" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png" tvc-guide-art="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/featuredImage_1757957533592.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Amor", Cine Amor 
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ad46-c01c-11f0-a309-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee9a1e51-e102-4c45-910f-28a0f7aa9e16&userId=&serverSideAds=true 
+
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.us@Spain",Pluto TV Telenovelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:0 channel-id="telemundo-telenovelas-clasicas-ptv1" channel-number="4180" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Telenovelas Clásicas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae5e-c01c-11f0-a1b3-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29c128fe-0c7f-4e99-889c-7986fd2c851f&userId=&serverSideAds=true 
+
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.us@Spain",Pluto TV Toons Clásico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:0 channel-id="nick-en-espanol" channel-number="3780" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nickelodeon en español", Nickelodeon
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cdc8-c01c-11f0-a429-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14f14a1e-f777-4e57-9677-d089c7518e41&userId=&serverSideAds=true 
@@ -136,6 +166,9 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 , Tom y Jerry Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
+
+#EXTINF:-1 tvg-id="XLevelMedia.ar@SD",X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 , Puente Gral Belgrano Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cc4267027.m3u8
@@ -204,6 +237,10 @@ C5N youtube (se corta)
 El Trece (sin señal)
 Telefe (sin señal)
 
+Chilecito TV (anda pero esta en negro siempre)
+EXTINF:-1 tvg-id="ChilecitoTV.ar" tvg-name="Chilecito TV" tvg-logo="https://i.imgur.com/zGubmgZ.png",Chilecito TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+
 Canal Siete Mendoza youtube (no anda)
 EXTINF:-1 tvg-id="CanalSiete.ar@SD",Canal Siete Mendoza Ⓨ
 https://anym3u8player.com/youtube.php/id/6963c7bf32537.m3u8
@@ -265,34 +302,10 @@ https://mihd.tv
 
 
 
-#EXTINF:-1 tvg-id="TodoNovelas.es@SD",Zylo Todo Novelas (1080p)
-https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-
-
-#EXTINF:0 channel-id="cine-clasico" channel-number="4110" tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Clásico", Cine Clásico 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aa08-c01c-11f0-887c-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da77f0f6-1b51-4813-b258-a42a64002f80&userId=&serverSideAds=true 
-
-#EXTINF:0 channel-id="cine-aventura" channel-number="4120" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" tvc-guide-art="https://images.pluto.tv/channels/60fb2f47c133270007327375/featuredImage_1757954279355.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine aventura", Cine Aventura 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aac6-c01c-11f0-8584-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4e54b3-d7bf-467b-a218-52d10831d5f3&userId=&serverSideAds=true 
-
-#EXTINF:0 channel-id="cine-adrenalina" channel-number="4130" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Adrenalina", Cine Adrenalina 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ab70-c01c-11f0-9fc8-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ceb34b1-f949-44ba-ad24-dca6fbd4b716&userId=&serverSideAds=true 
-
-#EXTINF:0 channel-id="mas-adrenalina" channel-number="4132" tvg-logo="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/colorLogoPNG_1755151031497.png" tvc-guide-art="https://images.pluto.tv/channels/687fea9a4fa995eff284a1c8/featuredImage_1755151030750.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Cine Más Adrenalina 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/687fea9a4fa995eff284a1c8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6abca-c01c-11f0-8155-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c1d4c5cd-66ea-4664-b15b-76679c35c94f&userId=&serverSideAds=true 
-
-#EXTINF:0 channel-id="cine-crimen" channel-number="4135" tvg-logo="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png" tvc-guide-art="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/featuredImage_1751915821616.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Crimen", Cine Crimen 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686c1c873ffa5e0c91a85938/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac24-c01c-11f0-b52f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce4c7f59-3469-4a8f-87c1-947ec27d7e37&userId=&serverSideAds=true 
-
-#EXTINF:0 channel-id="cine-terror" channel-number="4140" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Terror", Cine Terror 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac88-c01c-11f0-8c46-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22d2c7aa-5019-40f9-a408-7e88d0729058&userId=&serverSideAds=true 
-
-#EXTINF:0 channel-id="cine-comedia" channel-number="4150" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png" tvc-guide-art="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/featuredImage_1757954350105.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Cine Comedia 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ace2-c01c-11f0-b297-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1c225d9-5099-4a7e-827d-63356bfd2d9d&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="cine-amor" channel-number="4160" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG_1757957531383.png" tvc-guide-art="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/featuredImage_1757957533592.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Amor", Cine Amor 
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ad46-c01c-11f0-a309-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee9a1e51-e102-4c45-910f-28a0f7aa9e16&userId=&serverSideAds=true 
 
 
 
 
+
+#EXTINF:0 channel-id="vidas-extremas" channel-number="4443" tvg-logo="https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/673249afc7626f0008c7205d/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Vidas Extremas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b43a-c01c-11f0-9b19-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=44d5eb0e-5987-416a-a804-443241d4f6a8&userId=&serverSideAds=true
