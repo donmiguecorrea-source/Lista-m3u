@@ -309,3 +309,8 @@ https://mihd.tv
 
 #EXTINF:0 channel-id="vidas-extremas" channel-number="4443" tvg-logo="https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/673249afc7626f0008c7205d/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Vidas Extremas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b43a-c01c-11f0-9b19-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=44d5eb0e-5987-416a-a804-443241d4f6a8&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion | AR 
+http://85.239.54.197:81/live/loco_hi/index.m3u8?PlaylistM3UCL
+
+
