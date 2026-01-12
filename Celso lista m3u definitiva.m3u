@@ -53,6 +53,9 @@ https://anym3u8player.com/youtube.php/id/6962c514ed347.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
 
+#EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
 #EXTINF:-1 , Telesur Ⓨ
 https://anym3u8player.com/youtube.php/id/6963ca9b08967.m3u8
 
@@ -254,7 +257,8 @@ EXTINF:-1 tvg-id="Locomotion.ar" tvg-logo="HOfGX6a.png" , Locomotion | SD
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 Anime TV (sin señal)
-
+#EXTINF:-1 tvg-id="PlutoTVAnime.de" tvg-logo="https://i.imgur.com/GHW6prH.png", Pluto TV Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
 Cartoon Network (sin señal)
 
 Cine Western (sin señal)
@@ -311,107 +315,132 @@ https://mihd.tv
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b43a-c01c-11f0-9b19-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=44d5eb0e-5987-416a-a804-443241d4f6a8&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion | AR 
-http://85.239.54.197:81/live/loco_hi/index.m3u8?PlaylistM3UCL
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+Cartoon Network LA
+https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live
+
+Disney Channel
+https://www.youtube.com/channel/UCayRpbmAiiuU50OpDPVSjwA/live
+
+Zaz TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?
+
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&ifa_type=%5BIFA_TYPE%5D&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
 
 
-#EXTM3U
-#EXTINF:-1,#0 FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50378
-#EXTINF:-1,#Vamos HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50261
-#EXTINF:-1,#Vamos FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JivtU5vN/50376
-#EXTINF:-1,TNT HD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65937
-#EXTINF:-1,TNT FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5VN/50266
-#EXTINF:-1,Neox HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65958
-#EXTINF:-1,Neox FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50281
-#EXTINF:-1,Nova HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65957
-#EXTINF : -1, Nova FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5VN/50276
-#EXTINF:-1,Mezzo HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65928
-#EXTINF : -1, Mezzo FHD (eS)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50287
-#EXTINF:-1,MTV HD (es,
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65927
-#EXTINF:-1,MTV FHD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5VN/50286
-#EXTINF:-1,BE MAD HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/97008
-#EXTINF:-1,BE MAD FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50364
-#EXTINF:-1,Aragon TV HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65977
-#EXTINF : -1,Aragon TV FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50371
-#EXTINF:-1,Canal Sur A HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65976
-#EXTINF:-1,Canal Sur A FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50352
-#EXTINF:-1,Canal Decasa HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/97006
-#EXTINF:-1,Canal Decasa FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5VN/50356
-#EXTINF:-1,Iberalia TV HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65959
-#EXTINF:-1,Iberalia TV FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/97007
-#EXTINF:-1,DKiss HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/99320
-#EXTINF:-1,DKiss FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/99321
-#EXTINF:-1,MEGA HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65897
-#EXTINF:-1,MEGA FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/97009
-#EXTINF:-1,SyFy HD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65939
+Ghibli Latino
+https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 
-#EXTINF:-1,SyFy FHD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50269
 
-#EXTINF:-1,TCM HD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65938
-#EXTINF:-1,TCM FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JivtU5vN/50268
-#EXTINF:-1,AMC HD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65955
-#EXTINF : -1,AMC FHD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50374
-#EXTINF:-1,Fox HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5VN/65951
-#EXTINF : -1, FOX FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50330
-#EXTINF:-1,Fox Life HD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65950
-#EXTINF:-1,Fox Life FHD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50328
-#EXTINF:-1,AXN HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65954
-#EXTINF : -1,AXN FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50370
-#EXTINF:-1,AXN White HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65953
-#EXTINF:-1,AXN White FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50368
-#EXTINF:-1,Calle 13 HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5VN/65952
-#EXTINF:-1,Calle 13 FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50358
-#EXTINF:-1,Paramount HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65940
-#EXTINF:-1,Paramount FHD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50275
-#EXTINF:-1,Hollywood HD
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65949
-#EXTINF:-1,Hollywood FHD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50324
-#EXTINF:-1,Comedy Central HD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65903
-#EXTINF:-1,Comedy Central FHD (es)
-http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50347
+#EXTINF:0 channel-id="hallmark-en-espanol" channel-number="4170" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG_1762020092325.png" tvc-guide-art="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/featuredImage_1762020091697.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Hallmark en español", Hallmark ES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae04-c01c-11f0-afad-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a4ac7dd-cc48-4997-a4d8-995935009a5c&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cbs-en-espanol" channel-number="4245" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", CBS ES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6af26-c01c-11f0-84eb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14a420be-6647-4761-b50b-9b9d5f4b6be7&userId=&serverSideAds=true
+
+
+
+#EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español", Comedy Central ES
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="estrella-tv" channel-number="4370" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", EstrellaTV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b2f0-c01c-11f0-aeeb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb51c0f6-849a-4e2f-bcaf-62f1cb3919f7&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="construcciones-asombrosas" channel-number="4445" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png" tvc-guide-art="https://images.pluto.tv/channels/673249433a61d400087a51ed/featuredImage_1732128448239.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Construcciones Asombrosas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b494-c01c-11f0-bf75-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=97a1a7d5-252a-4ddb-b0bc-abde4a0eb8e2&userId=&serverSideAds=true
+
+
+#EXTINF:0 channel-id="sala-de-emergencias" channel-number="4455" tvg-logo="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/66ba53cda4ee2700083fac09/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Sala de Emergencias: Historias Inéditas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b4ee-c01c-11f0-ad70-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ef00bf1-2d5d-4005-927e-bb5bc724a517&userId=&serverSideAds=true
+
+
+
+#EXTINF:0 channel-id="crimen" channel-number="4459" tvg-logo="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Crimen
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6732499ce40c4a0008bb9894/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b566-c01c-11f0-8b43-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e69519cd-9c55-4367-a404-31372d0db8e6&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="crimenes-imperfectos" channel-number="4460" tvg-logo="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e94cd036cc69d0007e8a1ba/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Crímenes imperfectos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b5ca-c01c-11f0-bf71-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16e4871e-061a-47bb-97ef-3c88fa388c25&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="misterios-sin-resolver-1" channel-number="4470" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Misterios sin resolver
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b624-c01c-11f0-ab43-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d968e239-10f9-4660-aa52-19545aaeba39&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="investiga-ptv1" channel-number="4480" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Investiga
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b67e-c01c-11f0-b84e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d41c2b5c-3d1d-470b-a861-915ff6b0a23c&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="telemundo-noticias-noreste" channel-number="4490" tvg-logo="https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65791199dfed030008d031d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Noticias Noreste
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b6e2-c01c-11f0-8daf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8e17388-3fe1-4001-97ee-aa69fd9dce64&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cnn-xpress" channel-number="4525" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" tvc-guide-art="https://images.pluto.tv/channels/673248f9030a2c0008033af8/featuredImage_1755019017464.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", CNN XPRESS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673248f9030a2c0008033af8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b73c-c01c-11f0-909b-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=75312f01-4e3d-4639-933c-8a1455d7bce0&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="estrella-news" channel-number="4530" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Estrella News
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b78c-c01c-11f0-b96d-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af9b0d15-b9ff-4249-badf-0024b02f16e3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="fox-deportes" channel-number="4550" tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", FOX Deportes
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b7f0-c01c-11f0-a655-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc6253d2-4c79-41d0-b1d4-b8956b80f50a&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="lucha-libre-aaa" channel-number="4570" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Lucha Libre AAA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b85e-c01c-11f0-a806-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6eacd663-2ada-4b93-a9bd-4bb655b322ec&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1528340962.jpg", ExtremaTv 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion | AR 2
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png", Panavision | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png", Planeta TV | PE
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png", Mega Cine TV | DO
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV * | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion  | AR 3
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/HOfGX6a.png", Locomotion 4
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp", Retro Cartoon | SD
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
+
+
+
