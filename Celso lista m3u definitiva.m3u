@@ -253,7 +253,7 @@ EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://upload.wikime
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 Locomotion (sin señal)
-EXTINF:-1 tvg-id="Locomotion.ar" tvg-logo="HOfGX6a.png" , Locomotion | SD
+#EXTINF:-1 tvg-id="Locomotion.ar" tvg-logo="HOfGX6a.png" , Locomotion | SD
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 Anime TV (sin señal)
@@ -317,24 +317,21 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion | AR 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-Cartoon Network LA
-https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live
+#EXTINF:-1, Cartoon Network LA
+https://anym3u8player.com/youtube.php/id/696471adc1ddb.m3u8
 
-Disney Channel
-https://www.youtube.com/channel/UCayRpbmAiiuU50OpDPVSjwA/live
+#EXTINF:-1, Disney Channel LA
+https://anym3u8player.com/youtube.php/id/6964723caf511.m3u8
 
-Zaz TV
+#EXTINF:-1, Zaz TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?
 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&ifa_type=%5BIFA_TYPE%5D&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
 
 
-Ghibli Latino
+#EXTINF:-1, Ghibli Latino
 https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 
-
-#EXTINF:0 channel-id="hallmark-en-espanol" channel-number="4170" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG_1762020092325.png" tvc-guide-art="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/featuredImage_1762020091697.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Hallmark en español", Hallmark ES
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae04-c01c-11f0-afad-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a4ac7dd-cc48-4997-a4d8-995935009a5c&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="cbs-en-espanol" channel-number="4245" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", CBS ES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6af26-c01c-11f0-84eb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14a420be-6647-4761-b50b-9b9d5f4b6be7&userId=&serverSideAds=true
@@ -443,4 +440,17 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
 
 
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png",Animax 
+https://cdn.jpus206.jpnettv.live/jptv/janimax_720/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png",Animax Sub
+http://202.183.247.206:9981/stream/channelid/1468536448?ticket=DCBA58C0747DFA3D33D4CAFF1C804D08E2BDCCD8&profile=pass
+
+
+#EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="http://locomotiontv.com/locomotion/logo.png", Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png", Cartoon Netwotk
+http://38.18.238.42:2095/307CartoonNetwork/transco14/
