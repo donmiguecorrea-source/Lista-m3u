@@ -429,7 +429,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/HOfGX6a.png", Locomotion 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOfGX6a.png", Locomotion 4
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 
@@ -453,4 +453,4 @@ http://202.183.247.206:9981/stream/channelid/1468536448?ticket=DCBA58C0747DFA3D3
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="116107" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/682px-Cartoon_Network_1992_logo.svg.png", Cartoon Netwotk
-http://38.18.238.42:2095/307CartoonNetwork/transco14/
+http://38.18.238.42:2095/307CartoonNetwork/transco14/c
