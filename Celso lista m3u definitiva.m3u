@@ -23,8 +23,9 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-name="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png",Crónica TV Ⓨ
-https://anym3u8player.com/youtube.php/id/6962c3ffe91e6.m3u8
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
+
 
 #EXTINF:-1 tvg-id="ar.youtube.tn" tvg-name="TN Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lXj0oQ1vWqX7Q8QqX7Q8QqX7Q8QqX7Q8QqX7Q8=s176-c-k-c0x00ffffff-no-rj", TN Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c2f49f927.m3u8
@@ -35,8 +36,8 @@ https://anym3u8player.com/youtube.php/id/6962c34ce393e.m3u8
 #EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj", C5N Ⓨ
 https://anym3u8player.com/youtube.php/id/6963e441a9065.m3u8
 
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" ,A24 Ⓨ
-https://anym3u8player.com/youtube.php/id/6962c3a96c58a.m3u8
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" ,A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963c6340afc3.m3u8
@@ -182,8 +183,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
-#EXTINF:-1, Disney Channel LA Ⓨ
-https://anym3u8player.com/youtube.php/id/6964723caf511.m3u8
+#EXTINF:-1, Disney Channel LA
+http://201.230.121.186:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1, Zaz TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&ifa_type=%5BIFA_TYPE%5D&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
