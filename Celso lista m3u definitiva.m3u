@@ -28,6 +28,9 @@ https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+
 
 #EXTINF:-1 tvg-id="ar.youtube.tn" tvg-name="TN Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lXj0oQ1vWqX7Q8QqX7Q8QqX7Q8QqX7Q8QqX7Q8=s176-c-k-c0x00ffffff-no-rj", TN Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c2f49f927.m3u8
