@@ -206,6 +206,9 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-chno="9" tvg-id="Locomotion" tvg-name="Locomotion" tvg-logo="https://i.postimg.cc/DzWnJRBL/locomotion.png" ,Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF:-1 , Tom y Jerry Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
 
