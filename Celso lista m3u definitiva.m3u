@@ -14,7 +14,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="ext" tvg-name="TELENORD CORRIENTES" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",TELENORD Corrientes
+EXTINF:-1 tvg-ID="ext" tvg-name="TELENORD CORRIENTES" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",TELENORD Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="https://i.imgur.com/mSn7ACs.png",5tv Corrientes 
@@ -191,7 +191,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1, Disney Channel LA
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 
-#EXTINF:-1, Zaz TV
+EXTINF:-1, Zaz TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&ifa_type=%5BIFA_TYPE%5D&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
 
 #EXTINF:-1, Cartoon Network LA Ⓨ
@@ -249,64 +249,64 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b67e-c01c-11f0-b84e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d41c2b5c-3d1d-470b-a861-915ff6b0a23c&userId=&serverSideAds=true
 
 
-#EXTINF:-1 , Puente Gral Belgrano Ⓨ
+EXTINF:-1 , Puente Gral Belgrano Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cc4267027.m3u8
 
-#EXTINF:-1 , Estacion Espacial Internacional Ⓨ
+EXTINF:-1 , Estacion Espacial Internacional Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d1f6afc4e.m3u8
 
-#EXTINF:-1 , Animales Salvajes Ⓨ
+EXTINF:-1 , Animales Salvajes Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d3a2c21d4.m3u8
 
-#EXTINF:-1 , Radio Rivadavia Ⓨ
+EXTINF:-1 , Radio Rivadavia Ⓨ
 https://anym3u8player.com/youtube.php/id/6963ccf61fc8c.m3u8
 
-#EXTINF:-1 , Radio La Red Ⓨ
+EXTINF:-1 , Radio La Red Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cd375bac5.m3u8
 
-#EXTINF:-1 , Radio Mitre Ⓨ
+EXTINF:-1 , Radio Mitre Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cb06f3145.m3u8
 
-#EXTINF:-1 , Radio 10 Ⓨ
+EXTINF:-1 , Radio 10 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cdb98a0e9.m3u8
 
-#EXTINF:-1 , Viking Slavic Pagan Radio Ⓨ
+EXTINF:-1 , Viking Slavic Pagan Radio Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d3f42ae4d.m3u8
 
-#EXTINF:-1 , Dark Pagan Radio Ⓨ
+EXTINF:-1 , Dark Pagan Radio Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d49fabdae.m3u8
 
-#EXTINF:-1 , Viking Music Workout & Training Ⓨ
+EXTINF:-1 , Viking Music Workout & Training Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d4d2e4cfe.m3u8
 
-#EXTINF:-1 , Viking Relax Ⓨ
+EXTINF:-1 , Viking Relax Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d506a0f26.m3u8
 
-#EXTINF:-1 , LOTR Relax & Meditation Ⓨ
+EXTINF:-1 , LOTR Relax & Meditation Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d626c05dd.m3u8
 
-#EXTINF:-1 , Healing Music Ⓨ
+EXTINF:-1 , Healing Music Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d5ab4ad5a.m3u8
 
-#EXTINF:-1 , Inner Healing Music Ⓨ
+EXTINF:-1 , Inner Healing Music Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d5fb42326.m3u8
 
-#EXTINF:-1 , 432hz Relaxing Ⓨ
+EXTINF:-1 , 432hz Relaxing Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d65addfa1.m3u8
 
-#EXTINF:-1 , Portal 1111 Ⓨ
+EXTINF:-1 , Portal 1111 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d6bb272e2.m3u8
 
-#EXTINF:-1 , 888hz Abundance Ⓨ
+EXTINF:-1 , 888hz Abundance Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d70b026e3.m3u8
 
-#EXTINF:-1 , 936hz Aura Cleaning Ⓨ
+EXTINF:-1 , 936hz Aura Cleaning Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d7727c42d.m3u8
 
 Village Life Ⓨ
 https://www.youtube.com/live/sVTlJitGMDE?si=l_xMb6GZJ5VqSyn7
 
-#EXTINF:-1 , Dark Minimal Techno Ⓨ
+EXTINF:-1 , Dark Minimal Techno Ⓨ
 https://anym3u8player.com/youtube.php/id/6963d8a0d9b1a.m3u8
 
 
@@ -344,6 +344,7 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 Anime TV (sin señal)
 #EXTINF:-1 tvg-id="PlutoTVAnime.de" tvg-logo="https://i.imgur.com/GHW6prH.png", Pluto TV Anime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
+
 Cartoon Network (sin señal)
 
 Cine Western (sin señal)
