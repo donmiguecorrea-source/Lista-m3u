@@ -23,6 +23,12 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-name="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="https://i.postimg.cc/3R2nS4Mx/rtn.png",RTN Neuquén 
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
@@ -33,6 +39,28 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="1909" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png",TV PÚBLICA 
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8 
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8 
+
+EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036 
+
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://panel.host-live.com:19360/8250/8250.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
 https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
@@ -66,64 +94,17 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 EXTINF:-1 tvg-name="Telefe Noticias Ⓨ" ,Telefe Noticias Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c514ed347.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
-
 EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/gb2iih.png",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar",Telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
-
-#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-EXTINF:-1 tvg-id="0937" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls
-
-#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
-https://panel.host-live.com:19360/8250/8250.m3u8
-
-EXTINF:-1 , Telesur Ⓨ
-https://anym3u8player.com/youtube.php/id/6963ca9b08967.m3u8
-
-#EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png",TV PÚBLICA 
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8 
-
-EXTINF:-1 , Canal 8 San Juan Ⓨ
-https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
-
-#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 España
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png",Argentinisima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8 
-
-EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036 
-
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
-#https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-
-
-#EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="https://i.postimg.cc/3R2nS4Mx/rtn.png",RTN Neuquén 
-https://media.neuquen.gov.ar/rtn/television/media.m3u8
-
-EXTINF:-1 , Canal Rural Ⓨ
-https://anym3u8player.com/youtube.php/id/6963ccb7ef186.m3u8
 
 #EXTINF:0 channel-id="telemundo-noticias-noreste" channel-number="4490" tvg-logo="https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65791199dfed030008d031d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Noticias Noreste
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b6e2-c01c-11f0-8daf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8e17388-3fe1-4001-97ee-aa69fd9dce64&userId=&serverSideAds=true
@@ -134,14 +115,35 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0 channel-id="estrella-news" channel-number="4530" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Estrella News
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b78c-c01c-11f0-b96d-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af9b0d15-b9ff-4249-badf-0024b02f16e3&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 España
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+
+EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+EXTINF:-1 tvg-id="0937" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls
+
+
+EXTINF:-1 , Canal 8 San Juan Ⓨ
+https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
+
+
+EXTINF:-1 , Canal Rural Ⓨ
+https://anym3u8player.com/youtube.php/id/6963ccb7ef186.m3u8
+
+
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-name="Garage TV" tvg-logo="https://i.imgur.com/FqFxog1.png",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="LitusTV.ar" tvg-name="Litus TV" tvg-logo="https://i.imgur.com/QIGSf4L.png",Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:0 channel-id="estrella-tv" channel-number="4370" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", EstrellaTV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b2f0-c01c-11f0-aeeb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb51c0f6-849a-4e2f-bcaf-62f1cb3919f7&userId=&serverSideAds=true
