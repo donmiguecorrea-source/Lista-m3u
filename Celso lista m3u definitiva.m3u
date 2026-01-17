@@ -111,11 +111,12 @@ http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8 
 
-#EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
+EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036 
 
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 
 #EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="https://i.postimg.cc/3R2nS4Mx/rtn.png",RTN Neuquén 
@@ -229,7 +230,7 @@ http://201.230.121.186:8000/play/a0fb/index.m3u8
 EXTINF:-1, Zaz TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=%5BUS_PRIVACY%5D&gdpr=%5BGDPR%5D&ifa_type=%5BIFA_TYPE%5D&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
 
-#EXTINF:-1, Cartoon Network LA Ⓨ
+EXTINF:-1, Cartoon Network LA Ⓨ
 https://anym3u8player.com/youtube.php/id/696471adc1ddb.m3u8
 
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png", Magic Kids 
@@ -250,7 +251,7 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 , Tom y Jerry Ⓨ
+EXTINF:-1 , Tom y Jerry Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
 
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",Canal de la Música 
@@ -265,7 +266,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español", Comedy Central ES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="Naturaleza" ,Naturaleza
+EXTINF:-1 tvg-id="" tvg-name="Naturaleza" ,Naturaleza
 https://anym3u8player.com/youtube.php/id/690bf6de0cc9e.m3u8
 
 #EXTINF:0 channel-id="construcciones-asombrosas" channel-number="4445" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png" tvc-guide-art="https://images.pluto.tv/channels/673249433a61d400087a51ed/featuredImage_1732128448239.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Construcciones Asombrosas
