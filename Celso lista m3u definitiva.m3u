@@ -12,7 +12,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 EXTINF:-1 tvg-ID="ext" tvg-name="TELENORD CORRIENTES" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",TELENORD Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
@@ -23,6 +23,17 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-name="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
+http://107.152.39.199:8030/hls/canal7.m3u8
+
+#EXTINF:-1 tvg-id="0915" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
 https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
 
@@ -31,11 +42,13 @@ https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-
 #EXTINF:-1 tvg-id="ar.youtube.tn" tvg-name="TN Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lXj0oQ1vWqX7Q8QqX7Q8QqX7Q8QqX7Q8QqX7Q8=s176-c-k-c0x00ffffff-no-rj", TN Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c2f49f927.m3u8
 
-#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar",LN+ Ⓨ
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
+
+EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar",LN+ Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c34ce393e.m3u8
 
 #EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj", C5N Ⓨ
@@ -44,8 +57,14 @@ https://anym3u8player.com/youtube.php/id/6963e441a9065.m3u8
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" ,A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963c6340afc3.m3u8
+
+#EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Ar|12
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
 
 #EXTINF:-1 , Ar|12 Ⓨ
 https://anym3u8player.com/youtube.php/id/6963c8fec07e8.m3u8
@@ -59,16 +78,37 @@ https://anym3u8player.com/youtube.php/id/6962c514ed347.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
 
+EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/gb2iih.png",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
 #EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar",Telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 , Telesur Ⓨ
+#EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls
+
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://panel.host-live.com:19360/8250/8250.m3u8
+
+EXTINF:-1 , Telesur Ⓨ
 https://anym3u8player.com/youtube.php/id/6963ca9b08967.m3u8
 
 #EXTINF:-1 tvg-ID="TVPublica.ar" tvg-name="TV PÚBLICA" tvg-logo="https://raw.githubusercontent.com/reynaldo1311/logos/main/tvpublica.png",TV PÚBLICA 
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8 
 
-#EXTINF:-1 , Canal 8 San Juan Ⓨ
+EXTINF:-1 , Canal 8 San Juan Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
 
 #EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
@@ -86,7 +126,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 #EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="https://i.postimg.cc/3R2nS4Mx/rtn.png",RTN Neuquén 
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 
-#EXTINF:-1 , Canal Rural Ⓨ
+EXTINF:-1 , Canal Rural Ⓨ
 https://anym3u8player.com/youtube.php/id/6963ccb7ef186.m3u8
 
 #EXTINF:0 channel-id="telemundo-noticias-noreste" channel-number="4490" tvg-logo="https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65791199dfed030008d031d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Noticias Noreste
@@ -218,6 +258,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u
 #EXTINF:-1 , Tom y Jerry Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
 
+#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",Canal de la Música 
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
 #EXTINF:-1 tvg-id="XLevelMedia.ar@SD",X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
@@ -226,6 +269,9 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español", Comedy Central ES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-name="Naturaleza" ,Naturaleza
+https://anym3u8player.com/youtube.php/id/690bf6de0cc9e.m3u8
 
 #EXTINF:0 channel-id="construcciones-asombrosas" channel-number="4445" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png" tvc-guide-art="https://images.pluto.tv/channels/673249433a61d400087a51ed/featuredImage_1732128448239.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Construcciones Asombrosas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b494-c01c-11f0-bf75-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=97a1a7d5-252a-4ddb-b0bc-abde4a0eb8e2&userId=&serverSideAds=true
