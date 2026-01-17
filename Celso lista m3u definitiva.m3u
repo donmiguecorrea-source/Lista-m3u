@@ -52,10 +52,13 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8 
 
-#EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
+EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+
+#EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036 
 
-#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
 
 #EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
