@@ -322,6 +322,10 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png", Video Tour Channel  | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
+
 #EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español", Comedy Central ES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
 
@@ -666,8 +670,7 @@ EXTINF:-1 tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://www.m3u.cl/logo/26_
 https://inliveserver.com:1936/11530/11530/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
 
 
 EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV  | VE
