@@ -2248,3 +2248,20 @@ http://cdn.adultiptv.net/hentai.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="ChacoTV" group-title="PRUEBA",Chaco TV
+https://vmf.edge4k.tv/live/chaco_tv/index.m3u8
+#EXTINF:-1 tvg-id="C5N" group-title="PRUEBA",C5N Noticias
+https://c5n.mira.tube/hls-live/live.m3u8
+#EXTINF:-1 tvg-id="Hentai" group-title="ADULTOS",Hentai Gold
+https://stream.ads.ottera.tv/playlist.m3u8?it=hentai_gold
+
+
+
+
+
+
+
+
+
+
