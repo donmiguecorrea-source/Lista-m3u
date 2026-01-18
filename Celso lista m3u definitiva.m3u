@@ -2002,3 +2002,209 @@ https://vmf.edge4k.tv/livetv/winsports/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="PlutoAnime.lat" group-title="Anime Latino",Pluto TV Anime
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=5f514b8a4f3e6a0007883a4c
+#EXTINF:-1 tvg-id="AnimeAccion.lat" group-title="Anime Latino",Anime Acción
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=5f514ba44f3e6a0007883a4d
+#EXTINF:-1 tvg-id="Naruto.lat" group-title="Anime Latino",Naruto Latino (Canal Exclusivo)
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=5f514bb84f3e6a0007883a4e
+#EXTINF:-1 tvg-id="OnePiece.lat" group-title="Anime Latino",One Piece Latino
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=61313e6d6b637500086c8d76
+#EXTINF:-1 tvg-id="YuGiOh.lat" group-title="Anime Latino",Yu-Gi-Oh! Latino
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=606f30e9d6d45e000778939c
+#EXTINF:-1 tvg-id="DetectiveConan.lat" group-title="Anime Latino",Detective Conan
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=61094f3d6b637500086c8d5a
+#EXTINF:-1 tvg-id="Inuyasha.lat" group-title="Anime Latino",Inuyasha
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=5f514bd04f3e6a0007883a4f
+
+
+#EXTINF:-1 tvg-id="SenpaiTV.cl" group-title="Anime Latino",Senpai TV (Chile/Latino)
+https://vmf.edge4k.tv/livetv/senpaitv/index.m3u8
+#EXTINF:-1 tvg-id="BitMe.mx" group-title="Anime Latino",BitMe (Televisa)
+https://vmf.edge4k.tv/livetv/bitme/index.m3u8
+#EXTINF:-1 tvg-id="AnimeOnegai.lat" group-title="Anime Latino",Anime Onegai Plus
+https://stream.ads.ottera.tv/playlist.m3u8?it=anime_onegai_latino
+
+
+#EXTINF:-1 tvg-id="MagicKids.retro" group-title="Nostalgia",Magic Kids Retro (24/7)
+https://realtvcenter.com/magic/index.m3u8
+#EXTINF:-1 tvg-id="FoxKids.retro" group-title="Nostalgia",Fox Kids Retro Latino
+https://stream.zeno.fm/u166m7z7nqzuv/playlist.m3u8
+#EXTINF:-1 tvg-id="Jetix.retro" group-title="Nostalgia",Jetix Latino Retro
+https://stream.zeno.fm/5yv0q7z7nqzuv/playlist.m3u8
+#EXTINF:-1 tvg-id="Locomotion.retro" group-title="Nostalgia",Locomotion Retro (Anime y Adult Swim)
+https://realtvcenter.com/locomotion/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NickClasico.lat" group-title="Nostalgia",Nick Clásico (Rugrats, Doug, Hey Arnold)
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=5f514b144f3e6a0007883a47
+#EXTINF:-1 tvg-id="NickRetro.lat" group-title="Nostalgia",Nick Retro (Kenan & Kel, Clarissa)
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=606f30d5d6d45e000778939b
+#EXTINF:-1 tvg-id="CartoonClassics.lat" group-title="Nostalgia",Cartoon Classics (Hanna-Barbera)
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=61313e5a6b637500086c8d75
+#EXTINF:-1 tvg-id="ArchivosMisterio.lat" group-title="Nostalgia",Archivos del Misterio (Escalofríos/Le temes a la oscuridad)
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=606f30fcd6d45e000778939d
+#EXTINF:-1 tvg-id="PowerRangers.lat" group-title="Nostalgia",Power Rangers (Todas las temporadas clásicas)
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=5f514b2d4f3e6a0007883a48
+
+
+#EXTINF:-1 tvg-id="RetroCartoons.lat" group-title="Nostalgia",Retro Cartoons Latino
+https://stream.ads.ottera.tv/playlist.m3u8?it=retro_cartoons_latino
+#EXTINF:-1 tvg-id="Popeye.lat" group-title="Nostalgia",Popeye el Marino
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=5f90919256976a000774a919
+#EXTINF:-1 tvg-id="Garfield.lat" group-title="Nostalgia",Garfield y sus amigos
+https://i.mjh.nz/PlutoTV/ar.m3u8?channel=60c2688bd6d45e00077893f4
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="RadioNordeste.ar" tvg-logo="https://www.radionordeste.com.ar/logo.png" group-title="Radios: Chaco",Radio Nordeste (95.7 - Resistencia)
+https://stream.continental.com.ar/nordeste.m3u8
+#EXTINF:-1 tvg-id="RadioLibertad.ar" group-title="Radios: Chaco",Radio Libertad (99.1 - Resistencia)
+https://streaming.enmivo.com/8122/stream
+#EXTINF:-1 tvg-id="FMChaco.ar" group-title="Radios: Chaco",FM Chaco (101.5)
+http://stream.zeno.fm/u1s3m1u0h7zuv
+#EXTINF:-1 tvg-id="RadioProvincia.ar" group-title="Radios: Chaco",Radio Provincia del Chaco (101.5)
+https://vmf.edge4k.tv/live/chaco_provincia/index.m3u8
+#EXTINF:-1 tvg-id="LaRadio.ar" group-title="Radios: Chaco",La Radio (104.7 - Resistencia)
+http://198.50.156.91:8316/stream
+
+#EXTINF:-1 tvg-id="RadioMitre.ar" tvg-name="Radio Mitre" group-title="Radios: Argentina",Radio Mitre (AM 790)
+https://mitre-ar-latam.stream.amperwave.net/mitre_ar_live_sc
+#EXTINF:-1 tvg-id="La100.ar" tvg-name="La 100" group-title="Radios: Argentina",La 100 (FM 99.9)
+https://cien-ar-latam.stream.amperwave.net/la100_ar_live_sc
+#EXTINF:-1 tvg-id="Aspen.ar" tvg-name="Aspen FM" group-title="Radios: Argentina",Aspen 102.3
+https://streaming.latina101.com.ar:8080/Aspen
+#EXTINF:-1 tvg-id="RadioRivadavia.ar" group-title="Radios: Argentina",Radio Rivadavia (AM 630)
+https://streaming.latina101.com.ar:8080/Rivadavia
+#EXTINF:-1 tvg-id="Metro.ar" group-title="Radios: Argentina",Metro 95.1
+https://streaming.latina101.com.ar:8080/Metro
+#EXTINF:-1 tvg-id="Disney.ar" group-title="Radios: Argentina",Radio Disney Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_AR_ADP.m3u8
+#EXTINF:-1 tvg-id="Vorterix.ar" group-title="Radios: Argentina",Vorterix (Rock)
+https://vorterix-ar-latam.stream.amperwave.net/vorterix_ar_live_sc
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="RedboxFreeMovies" group-title="Redbox: Cine",Redbox Free Movies (Cine Acción/Thriller)
+https://redbox-free-movies-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedboxWar" group-title="Redbox: Cine",Redbox War & Action
+https://redbox-war-action-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedboxRomance" group-title="Redbox: Cine",Redbox Romance
+https://redbox-romance-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crackerjack" group-title="Redbox: Cine",Crackerjack (Cine de culto/B-Movies)
+https://crackerjack-redbox.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="UnsolvedMysteriesEsp" group-title="Redbox: Latino",Misterios sin Resolver (Español)
+https://unsolved-mysteries-espanol-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ForensicFilesEsp" group-title="Redbox: Latino",Forensic Files (En Español)
+https://forensic-files-espanol-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BadGirlsClub" group-title="Redbox: Entretenimiento",Bad Girls Club (Reality)
+https://bad-girls-club-redbox.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Cops" group-title="Redbox: Accion",COPS (Reality Policial Clásico)
+https://cops-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LuchaLibre" group-title="Redbox: Deportes",Lucha Libre AAA (México/Latino)
+https://lucha-libre-aaa-redbox.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CineLifeLatino" group-title="Distro: Latino",CineLife Latino (Cine Independiente)
+https://cinelife-latino-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GleeTV" group-title="Distro: Latino",Glee TV (Telenovelas y Series)
+https://glee-latino-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Horrorfy" group-title="Distro: Latino",Horrorfy (Cine de Terror Latino)
+https://horrorfy-latino-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MoovimexDistro" group-title="Distro: Latino",Moovimex Latino (Acción/Cine Mexicano)
+https://moovimex-distrotv.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CombateGlobal" group-title="Distro: Deportes",Combate Global (MMA Latino)
+https://combate-global-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WPTLatino" group-title="Distro: Deportes",World Poker Tour (Español)
+https://wpt-latino-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV" group-title="Distro: Deportes",Fuel TV (Deportes Extremos)
+https://fuel-tv-distrotv.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CasaComedia" group-title="Distro: Latino",Casa Comedia (Stand Up y Sketch)
+https://casa-comedia-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TuCine" group-title="Distro: Latino",Tu Cine (Películas Variadas)
+https://tucine-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FlashLatino" group-title="Distro: Latino",Flash Latino (Cultura Pop)
+https://flash-latino-distrotv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergEsp" group-title="Tablo: Noticias",Bloomberg en Español
+https://bloomberg-en-espanol-tablo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Time" group-title="Tablo: Documentales",TIME (Documentales y Reportajes)
+https://time-tablo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USA-Today" group-title="Tablo: Noticias",USA Today (Noticias Globales)
+https://usatoday-tablo.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="LocalNowEsp" group-title="Tablo: Latino",Local Now en Español
+https://local-now-espanol-tablo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannelEsp" group-title="Tablo: Latino",The Weather Channel en Español
+https://weather-channel-espanol-tablo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV" group-title="Tablo: Deportes",Real Madrid TV (Español)
+https://real-madrid-tv-tablo.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="FilmRiseEsp" group-title="Tablo: Latino",FilmRise en Español (Cine y Series)
+https://filmrise-espanol-tablo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalCompetencias" group-title="Tablo: Latino",Sony Canal Competencias (Realities)
+https://sony-canal-competencias-tablo.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="SonyCanalNovelas" group-title="Vizio: Latino",Sony Canal Telenovelas
+https://sony-canal-novelas-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalComedias" group-title="Vizio: Latino",Sony Canal Comedias
+https://sony-canal-comedias-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalAntologia" group-title="Vizio: Latino",Sony Canal Antología (Series Clásicas)
+https://sony-canal-antologia-vizio.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="EstrellaNews" group-title="Vizio: Latino",Estrella News (Noticias 24/7)
+https://estrella-news-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ForoTV" group-title="Vizio: Latino",Foro TV (Noticias México/Latino)
+https://foro-tv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MilenioTV" group-title="Vizio: Latino",Milenio TV
+https://milenio-tv-vizio.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CinevaultLatino" group-title="Vizio: Latino",Cinevault Latino (Cine Época de Oro)
+https://cinevault-latino-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BeINSportsExtraEsp" group-title="Vizio: Deportes",beIN SPORTS Extra en Español
+https://bein-sports-extra-espanol-vizio.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
