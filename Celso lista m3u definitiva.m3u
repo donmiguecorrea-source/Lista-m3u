@@ -819,7 +819,7 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Fox Kids Ty" tvg-name="Fox Kids Tv" tvg-logo="https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png",FoxKids TV
+EXTINF:-1 tvg-chno="9" tvg-id="Fox Kids Ty" tvg-name="Fox Kids Tv" tvg-logo="https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png",FoxKids TV
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
 
 
@@ -1148,5 +1148,857 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d0
 
 #EXTINF:-1 tvg-id="VixCineOro.us" tvg-name="Vix Cine de Oro" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/VixCineOro.png" group-title="Spanish",Vix: Cine de Oro
 https://vix-cinedeoro-samsung.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-name="Moovimex" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Moovimex.png" group-title="Spanish",Moovimex
+https://moovimex-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanelaTVCinema.us" tvg-name="Canela TV Cinema" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CanelaTV.png" group-title="Spanish",Canela.TV Cinema
+https://canelatv-cinema-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PonteAlDia.us" tvg-name="Ponte Al Dia" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/PonteAlDia.png" group-title="Spanish",Ponte Al Día
+https://pontealdia-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ButacaTV.us" tvg-name="Butaca TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ButacaTV.png" group-title="Spanish",Butaca TV
+https://butacatv-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeEspanol.us" tvg-name="Tastemade Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Tastemade.png" group-title="Spanish",Tastemade en Español
+https://tastemade-espanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CNNE.png" group-title="Spanish",CNN en Español
+https://cnn-cnnespanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/EstrellaNews.png" group-title="Spanish",Estrella News
+https://estrellanews-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ABCNews.png" group-title="News",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b4cc577d88c2bb.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CBSNews.png" group-title="News",CBS News
+https://cbsn-us-samsung.cbsn.cbsnews.com/main/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Bloomberg.png" group-title="News",Bloomberg TV+
+https://live-bloomberg-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TWD.us" tvg-name="TWD Universe" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TWD.png" group-title="Entertainment",The Walking Dead Universe
+https://amc-thewalkingdead-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KitchenNightmares.us" tvg-name="Kitchen Nightmares" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/KitchenNightmares.png" group-title="Entertainment",Kitchen Nightmares
+https://kitchennightmares-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vice.png" group-title="Entertainment",VICE
+https://vice-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyCanalCompetencias.us" tvg-name="Sony Canal Competencias" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/SonyCanalCompetencias.png" group-title="Spanish",Sony Canal Competencias
+https://sony-competencias-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-name="Sony Canal Comedias" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/SonyCanalComedias.png" group-title="Spanish",Sony Canal Comedias
+https://sony-comedias-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-name="Runtime Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Runtime.png" group-title="Spanish",Runtime Español
+https://runtime-espanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuCine.us" tvg-name="Tu Cine" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TuCine.png" group-title="Spanish",Tu Cine
+https://tucine-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Spanish",Vevo Latino
+https://vevo-latino-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceLatina.us" tvg-name="Trace Latina" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TraceLatina.png" group-title="Spanish",Trace Latina
+https://trace-latina-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/vH9Z6M2.png" group-title="Latino",Telefe (Argentina)
+https://telefe.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineRetro.es" tvg-name="Cine Retro" tvg-logo="https://i.imgur.com/YwN9qR2.png" group-title="Cine",Cine Retro Latino
+https://stmv1.srvif.com/cineretro/cineretro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovelasEspanol.us" tvg-name="Novelas Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/NovelasEspanol.png" group-title="Spanish",Novelas en Español
+https://novelas-espanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyCanalDramas.us" tvg-name="Sony Canal Dramas" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/SonyCanalDramas.png" group-title="Spanish",Sony Canal Dramas
+https://sony-dramas-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuCine.us" tvg-name="Tu Cine" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TuCine.png" group-title="Spanish",Tu Cine (Películas)
+https://tucine-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnFamilia.us" tvg-name="En Familia" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/EnFamilia.png" group-title="Spanish",En Familia
+https://enfamilia-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineVix.us" tvg-name="Vix Cine y Series" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/VixCineOro.png" group-title="Spanish",Vix Cine y Series
+https://vix-cineseries-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorrorVix.us" tvg-name="Vix Horror" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/VixHorror.png" group-title="Spanish",Vix Thriller y Terror
+https://vix-thrilleryterror-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanelaTVClassic.us" tvg-name="Canela TV Clasicos" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CanelaTV.png" group-title="Spanish",Canela.TV Clásicos
+https://canelatv-clasicos-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="Chiquilines" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Chiquilines.png" group-title="Spanish",Chiquilines (Infantil)
+https://chiquilines-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollectiveEspanol.us" tvg-name="The Pet Collective Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ThePetCollective.png" group-title="Spanish",The Pet Collective en Español
+https://petcollective-espanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FailArmyEspanol.us" tvg-name="FailArmy Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/FailArmy.png" group-title="Spanish",FailArmy en Español
+https://failarmy-espanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationEspanol.us" tvg-name="PowerNation Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/PowerNation.png" group-title="Spanish",PowerNation en Español (Motores)
+https://powernation-espanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Quierete.us" tvg-name="Quierete" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Quierete.png" group-title="Spanish",Quiérete (Bienestar)
+https://quierete-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefEspanol.us" tvg-name="MasterChef Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/MasterChef.png" group-title="Spanish",MasterChef en Español
+https://masterchef-espanol-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5da4970678e07a000983191f/logo.png" group-title="Pluto Latino",Pluto TV Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da4970678e07a000983191f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineAccion" tvg-name="Pluto TV Cine Accion" tvg-logo="https://images.pluto.tv/channels/5da4971c78e07a0009831920/logo.png" group-title="Pluto Latino",Pluto TV Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da4971c78e07a0009831920/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTerror" tvg-name="Pluto TV Terror" tvg-logo="https://images.pluto.tv/channels/5da4972f78e07a0009831921/logo.png" group-title="Pluto Latino",Pluto TV Terror
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da4972f78e07a0009831921/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVInvestiga" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5da4976778e07a0009831924/logo.png" group-title="Pluto Latino",Pluto TV Investiga
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da4976778e07a0009831924/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelas" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5da497b778e07a0009831928/logo.png" group-title="Pluto Latino",Pluto TV Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da497b778e07a0009831928/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelefeNoticias" tvg-name="Telefe Noticias" tvg-logo="https://images.pluto.tv/channels/5e73bd4d2572520007e60f06/logo.png" group-title="Noticias",Telefe Noticias
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5e73bd4d2572520007e60f06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnime" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5da497e278e07a000983192b/logo.png" group-title="Pluto Latino",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da497e278e07a000983192b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkEspanol" tvg-name="South Park Espanol" tvg-logo="https://images.pluto.tv/channels/5da497f578e07a000983192c/logo.png" group-title="Pluto Latino",South Park en Español
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da497f578e07a000983192c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickLatino" tvg-name="Nick Latino" tvg-logo="https://images.pluto.tv/channels/5da4982678e07a000983192f/logo.png" group-title="Infantil",Nick Latino (Clásicos)
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da4982678e07a000983192f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/5da4986378e07a0009831933/logo.png" group-title="Musica",MTV Latino
+https://service-stitcher.clusters.pluto.tv/stitch/lvpphls/5da4986378e07a0009831933/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TelemundoAlDia.us" tvg-name="Telemundo Al Dia" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TelemundoAlDia.png" group-title="Spanish",Telemundo Al Día
+https://nbc-telemundoaldia-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NoticiasTelemundo.us" tvg-name="Noticias Telemundo" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/NoticiasTelemundo.png" group-title="Spanish",Noticias Telemundo Ahora
+https://nbc-noticiastelemundo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VixCineOro.us" tvg-name="Vix Cine de Oro" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/VixCineOro.png" group-title="Spanish",Vix: Cine de Oro
+https://vix-cinedeoro-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CNNE.png" group-title="Spanish",CNN en Español
+https://cnn-cnnespanol-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/EstrellaNews.png" group-title="Spanish",Estrella News
+https://estrellanews-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-name="Moovimex" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Moovimex.png" group-title="Spanish",Moovimex
+https://moovimex-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanelaTVCinema.us" tvg-name="Canela TV Cinema" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CanelaTV.png" group-title="Spanish",Canela.TV Cinema
+https://canelatv-cinema-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ButacaTV.us" tvg-name="Butaca TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ButacaTV.png" group-title="Spanish",Butaca TV
+https://butacatv-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeEspanol.us" tvg-name="Tastemade Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Tastemade.png" group-title="Spanish",Tastemade en Español
+https://tastemade-espanol-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PonteAlDia.us" tvg-name="Ponte Al Dia" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/PonteAlDia.png" group-title="Spanish",Ponte Al Día
+https://pontealdia-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/EstrellaTV.png" group-title="Spanish",Estrella TV
+https://estrellatv-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalDramas.us" tvg-name="Sony Canal Dramas" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/SonyCanalDramas.png" group-title="Spanish",Sony Canal Dramas
+https://sony-dramas-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-name="Sony Canal Comedias" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/SonyCanalComedias.png" group-title="Spanish",Sony Canal Comedias
+https://sony-comedias-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalCompetencias.us" tvg-name="Sony Canal Competencias" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/SonyCanalCompetencias.png" group-title="Spanish",Sony Canal Competencias
+https://sony-competencias-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-name="Runtime Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Runtime.png" group-title="Spanish",Runtime Español
+https://runtime-espanol-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TuCine.us" tvg-name="Tu Cine" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TuCine.png" group-title="Spanish",Tu Cine
+https://tucine-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CanelaTV.png" group-title="Spanish",Canela.TV
+https://canelatv-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.us" tvg-name="RCN Xtra" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/RCNXtra.png" group-title="Spanish",RCN Xtra
+https://rcn-xtra-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo Latino
+https://vevo-latino-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.us" tvg-name="Trace Latina" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TraceLatina.png" group-title="Music",Trace Latina
+https://trace-latina-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ABCNews.png" group-title="News",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b4cc577d88c2bb.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CBSNews.png" group-title="News",CBS News
+https://cbsn-us-samsung.cbsn.cbsnews.com/main/manifest.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Bloomberg.png" group-title="News",Bloomberg TV+
+https://live-bloomberg-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/FoxWeather.png" group-title="News",FOX Weather
+https://fox-foxweather-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us" tvg-name="ION Plus" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/IONPlus.png" group-title="Entertainment",ION Plus
+https://ion-plus-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TWD.us" tvg-name="TWD Universe" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TWD.png" group-title="Entertainment",The Walking Dead Universe
+https://amc-thewalkingdead-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vice.png" group-title="Entertainment",VICE
+https://vice-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KitchenNightmares.us" tvg-name="Kitchen Nightmares" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/KitchenNightmares.png" group-title="Entertainment",Kitchen Nightmares
+https://kitchennightmares-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HellsKitchen.us" tvg-name="Hells Kitchen" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/HellsKitchen.png" group-title="Entertainment",Hell's Kitchen
+https://hellskitchen-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Degrassi.us" tvg-name="Degrassi" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Degrassi.png" group-title="Entertainment",Degrassi
+https://degrassi-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nashville.us" tvg-name="Nashville" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Nashville.png" group-title="Entertainment",Nashville
+https://nashville-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AllMovies.us" tvg-name="All Movies" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/AllMovies.png" group-title="Movies",All Movies
+https://allmovies-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCine.us" tvg-name="Pluto TV Cine" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/PlutoTV.png" group-title="Movies",Pluto TV Cine
+https://pluto-cine-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Crime360.png" group-title="Crime",Crime 360
+https://crime360-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/LMN.png" group-title="Entertainment",Lifetime Movie Network
+https://lmn-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/MovieSphere.png" group-title="Movies",MovieSphere
+https://moviesphere-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseAction.us" tvg-name="FilmRise Action" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/FilmRise.png" group-title="Movies",FilmRise Action
+https://filmrise-action-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-name="FilmRise Free Movies" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/FilmRise.png" group-title="Movies",FilmRise Free Movies
+https://filmrise-freemovies-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealCrime.us" tvg-name="Real Crime" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/RealCrime.png" group-title="Crime",Real Crime
+https://realcrime-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-name="Cold Case Files" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ColdCaseFiles.png" group-title="Crime",Cold Case Files
+https://coldcasefiles-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cops.us" tvg-name="COPS" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Cops.png" group-title="Crime",COPS
+https://cops-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ForensicFiles.png" group-title="Crime",Forensic Files
+https://forensicfiles-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.us" tvg-name="The New Detectives" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TheNewDetectives.png" group-title="Crime",The New Detectives
+https://newdetectives-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-name="Unsolved Mysteries" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/UnsolvedMysteries.png" group-title="Crime",Unsolved Mysteries
+https://unsolved-mysteries-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactWrestling.us" tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ImpactWrestling.png" group-title="Sports",Impact Wrestling
+https://impact-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USGA.us" tvg-name="USGA TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/USGA.png" group-title="Sports",USGA TV
+https://usga-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WPT.us" tvg-name="World Poker Tour" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/WPT.png" group-title="Sports",World Poker Tour
+https://wpt-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Stadium.png" group-title="Sports",Stadium
+https://stadium-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/OutdoorChannel.png" group-title="Sports",Outdoor Channel Adventure
+https://outdoor-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="Pursuit UP" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Pursuit.png" group-title="Sports",Pursuit UP
+https://pursuit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAntiques.us" tvg-name="PBS Antiques" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/PBSAntiques.png" group-title="Lifestyle",PBS Antiques Roadshow
+https://pbs-antiques-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ThisOldHouse.png" group-title="Lifestyle",This Old House
+https://thisoldhouse-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us" tvg-name="Antiques Roadshow UK" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/AntiquesRoadshowUK.png" group-title="Lifestyle",Antiques Roadshow UK
+https://antiques-roadshow-uk-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.us" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/LoveNature.png" group-title="Documentary",Love Nature
+https://lovenature-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.us" tvg-name="WildEarth" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/WildEarth.png" group-title="Documentary",WildEarth
+https://wildearth-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayNature.us" tvg-name="Stingray Nature" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Stingray.png" group-title="Documentary",Stingray Nature Escape
+https://stingray-nature-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Journey.us" tvg-name="Journey TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Journey.png" group-title="Documentary",Journey TV
+https://journey-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Homeful.us" tvg-name="Homeful" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Homeful.png" group-title="Lifestyle",Homeful
+https://homeful-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Makeful.us" tvg-name="Makeful" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Makeful.png" group-title="Lifestyle",Makeful
+https://makeful-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/DesignNetwork.png" group-title="Lifestyle",The Design Network
+https://designnetwork-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BonAppetit.us" tvg-name="Bon Appetit" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/BonAppetit.png" group-title="Lifestyle",Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-name="Gusto TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/GustoTV.png" group-title="Lifestyle",Gusto TV
+https://gustotv-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CookingLight.us" tvg-name="Cooking Light" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/CookingLight.png" group-title="Lifestyle",Cooking Light
+https://cookinglight-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="Chiquilines" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Chiquilines.png" group-title="Kids",Chiquilines
+https://chiquilines-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pocketwatch.us" tvg-name="Pocketwatch" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Pocketwatch.png" group-title="Kids",pocket.watch
+https://pocketwatch-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanAndFriends.us" tvg-name="Ryan and Friends" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/RyanAndFriends.png" group-title="Kids",Ryan and Friends
+https://ryanfriends-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGO.us" tvg-name="LEGO" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/LEGO.png" group-title="Kids",LEGO Channel
+https://lego-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.us" tvg-name="KidoodleTV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/KidoodleTV.png" group-title="Kids",Kidoodle.TV
+https://kidoodle-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ThePetCollective.png" group-title="Comedy",The Pet Collective
+https://petcollective-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/FailArmy.png" group-title="Comedy",FailArmy
+https://failarmy-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustForLaughs.us" tvg-name="Just For Laughs" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/JustForLaughs.png" group-title="Comedy",Just For Laughs Gags
+https://jfl-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo Pop
+https://vevo-pop-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-name="Vevo Country" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo Country
+https://vevo-country-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo Hip Hop
+https://vevo-hiphop-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoR&B.us" tvg-name="Vevo R&B" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo R&B
+https://vevo-rb-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-name="Vevo 70s" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo 70s
+https://vevo-70s-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo 80s" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo 80s
+https://vevo-80s-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-name="Vevo 90s" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo 90s
+https://vevo-90s-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-name="Vevo 2K" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Vevo.png" group-title="Music",Vevo 2K
+https://vevo-2k-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.us" tvg-name="Stingray Classic Rock" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Stingray.png" group-title="Music",Stingray Classic Rock
+https://stingray-classicrock-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHipHop.us" tvg-name="Stingray Hip Hop" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Stingray.png" group-title="Music",Stingray Hip Hop/R&B
+https://stingray-hiphoprb-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNews.us" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/SkyNews.png" group-title="News",Sky News
+https://skynews-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Newsmax.png" group-title="News",Newsmax
+https://newsmax-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo Finance" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/YahooFinance.png" group-title="News",Yahoo Finance
+https://yahoofinance-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Tastemade.png" group-title="Lifestyle",Tastemade
+https://tastemade-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Complex.us" tvg-name="Complex" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Complex.png" group-title="Entertainment",Complex
+https://complex-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerNation.us" tvg-name="PowerNation" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/PowerNation.png" group-title="Lifestyle",PowerNation
+https://powernation-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheGrapevine.us" tvg-name="The Grapevine" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TheGrapevine.png" group-title="Entertainment",The Grapevine
+https://grapevine-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us" tvg-name="People TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/PeopleTV.png" group-title="Entertainment",People TV
+https://peopletv-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Revry.png" group-title="Entertainment",Revry
+https://revry-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wired.us" tvg-name="Wired" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Wired.png" group-title="Technology",WIRED
+https://wired-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArchitecturalDigest.us" tvg-name="Architectural Digest" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/ArchitecturalDigest.png" group-title="Lifestyle",Architectural Digest
+https://archdigest-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GQ.us" tvg-name="GQ" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/GQ.png" group-title="Lifestyle",GQ
+https://gq-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/WeatherNation.png" group-title="News",WeatherNation
+https://weathernation-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeather.us" tvg-name="AccuWeather" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/AccuWeather.png" group-title="News",AccuWeather Now
+https://accuweather-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-name="Bloomberg Quicktake" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Bloomberg.png" group-title="News",Bloomberg Quicktake
+https://bloomberg-quicktake-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.us" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Euronews.png" group-title="News",Euronews English
+https://euronews-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricanNews.us" tvg-name="Africanews" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/Africanews.png" group-title="News",Africanews
+https://africanews-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.us" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/TRTWorld.png" group-title="News",TRT World
+https://trtworld-samsung.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" group-title="General",A&E
+https://tvpass.org/stream/ae.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="General",AMC
+https://tvpass.org/stream/amc.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" group-title="General",Animal Planet
+https://tvpass.org/stream/animal-planet.m3u8
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC America" group-title="General",BBC America
+https://tvpass.org/stream/bbc-america.m3u8
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" group-title="General",BET
+https://tvpass.org/stream/bet.m3u8
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" group-title="General",Bravo
+https://tvpass.org/stream/bravo.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="General",Discovery Channel
+https://tvpass.org/stream/discovery.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel" group-title="Kids",Disney Channel
+https://tvpass.org/stream/disney-channel.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" group-title="Kids",Disney Junior
+https://tvpass.org/stream/disney-junior.m3u8
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" group-title="Kids",Disney XD
+https://tvpass.org/stream/disney-xd.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" group-title="General",E!
+https://tvpass.org/stream/e.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Sports",ESPN
+https://tvpass.org/stream/espn.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" group-title="Sports",ESPN2
+https://tvpass.org/stream/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPNews" tvg-name="ESPNews" group-title="Sports",ESPNews
+https://tvpass.org/stream/espnews.m3u8
+#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" group-title="Sports",ESPNU
+https://tvpass.org/stream/espnu.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" group-title="General",Food Network
+https://tvpass.org/stream/food-network.m3u8
+#EXTINF:-1 tvg-id="FoxBusiness" tvg-name="Fox Business" group-title="News",Fox Business
+https://tvpass.org/stream/fox-business.m3u8
+#EXTINF:-1 tvg-id="FoxNews" tvg-name="Fox News" group-title="News",Fox News
+https://tvpass.org/stream/fox-news.m3u8
+#EXTINF:-1 tvg-id="FoxSports1" tvg-name="FS1" group-title="Sports",Fox Sports 1
+https://tvpass.org/stream/fs1.m3u8
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="FS2" group-title="Sports",Fox Sports 2
+https://tvpass.org/stream/fs2.m3u8
+#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform" group-title="General",Freeform
+https://tvpass.org/stream/freeform.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="General",FX
+https://tvpass.org/stream/fx.m3u8
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" group-title="General",FXX
+https://tvpass.org/stream/fxx.m3u8
+#EXTINF:-1 tvg-id="Golf" tvg-name="Golf Channel" group-title="Sports",Golf Channel
+https://tvpass.org/stream/golf-channel.m3u8
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark Channel" group-title="Entertainment",Hallmark Channel
+https://tvpass.org/stream/hallmark.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies",HBO
+https://tvpass.org/stream/hbo.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Movies",HBO 2
+https://tvpass.org/stream/hbo2.m3u8
+#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" group-title="Movies",HBO Comedy
+https://tvpass.org/stream/hbo-comedy.m3u8
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" group-title="Movies",HBO Signature
+https://tvpass.org/stream/hbo-signature.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Lifestyle",HGTV
+https://tvpass.org/stream/hgtv.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel" group-title="Documentary",History Channel
+https://tvpass.org/stream/history.m3u8
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" group-title="News",HLN
+https://tvpass.org/stream/hln.m3u8
+#EXTINF:-1 tvg-id="ID" tvg-name="Investigation Discovery" group-title="General",Investigation Discovery
+https://tvpass.org/stream/id.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" group-title="Entertainment",Lifetime
+https://tvpass.org/stream/lifetime.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork" tvg-name="MLB Network" group-title="Sports",MLB Network
+https://tvpass.org/stream/mlb-network.m3u8
+#EXTINF:-1 tvg-id="MotorTrend" tvg-name="MotorTrend" group-title="Lifestyle",MotorTrend
+https://tvpass.org/stream/motortrend.m3u8
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" group-title="News",MSNBC
+https://tvpass.org/stream/msnbc.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="Music",MTV
+https://tvpass.org/stream/mtv.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic" group-title="Documentary",National Geographic
+https://tvpass.org/stream/nat-geo.m3u8
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" group-title="Sports",NBA TV
+https://tvpass.org/stream/nba-tv.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork" tvg-name="NFL Network" group-title="Sports",NFL Network
+https://tvpass.org/stream/nfl-network.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork" tvg-name="NHL Network" group-title="Sports",NHL Network
+https://tvpass.org/stream/nhl-network.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Kids",Nickelodeon
+https://tvpass.org/stream/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" group-title="Kids",Nicktoons
+https://tvpass.org/stream/nicktoons.m3u8
+#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" group-title="Entertainment",OWN
+https://tvpass.org/stream/own.m3u8
+#EXTINF:-1 tvg-id="Oxygen" tvg-name="Oxygen" group-title="Crime",Oxygen
+https://tvpass.org/stream/oxygen.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork" tvg-name="Paramount Network" group-title="Entertainment",Paramount Network
+https://tvpass.org/stream/paramount-network.m3u8
+#EXTINF:-1 tvg-id="Showtime" tvg-name="Showtime" group-title="Movies",Showtime
+https://tvpass.org/stream/showtime.m3u8
+#EXTINF:-1 tvg-id="Showtime2" tvg-name="Showtime 2" group-title="Movies",Showtime-2.m3u8
+https://tvpass.org/stream/showtime-2.m3u8
+#EXTINF:-1 tvg-id="Smithsonian" tvg-name="Smithsonian Channel" group-title="Documentary",Smithsonian Channel
+https://tvpass.org/stream/smithsonian-channel.m3u8
+#EXTINF:-1 tvg-id="Starz" tvg-name="Starz" group-title="Movies",Starz
+https://tvpass.org/stream/starz.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" group-title="Entertainment",Syfy
+https://tvpass.org/stream/syfy.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" group-title="Entertainment",TBS
+https://tvpass.org/stream/tbs.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" group-title="Movies",TCM
+https://tvpass.org/stream/tcm.m3u8
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo East" group-title="Spanish",Telemundo East
+https://tvpass.org/stream/telemundo.m3u8
+#EXTINF:-1 tvg-id="Tennis" tvg-name="Tennis Channel" group-title="Sports",Tennis Channel
+https://tvpass.org/stream/tennis-channel.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="General",TLC
+https://tvpass.org/stream/tlc.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" group-title="Entertainment",TNT
+https://tvpass.org/stream/tnt.m3u8
+#EXTINF:-1 tvg-id="TravelChannel" tvg-name="Travel Channel" group-title="General",Travel Channel
+https://tvpass.org/stream/travel-channel.m3u8
+#EXTINF:-1 tvg-id="TruTV" tvg-name="truTV" group-title="Entertainment",truTV
+https://tvpass.org/stream/trutv.m3u8
+#EXTINF:-1 tvg-id="TVLand" tvg-name="TV Land" group-title="Entertainment",TV Land
+https://tvpass.org/stream/tv-land.m3u8
+#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" group-title="Spanish",Univision
+https://tvpass.org/stream/univision.m3u8
+#EXTINF:-1 tvg-id="USANetwork" tvg-name="USA Network" group-title="Entertainment",USA Network
+https://tvpass.org/stream/usa-network.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" group-title="Music",VH1
+https://tvpass.org/stream/vh1.m3u8
+#EXTINF:-1 tvg-id="ABC.ny" tvg-name="ABC New York" group-title="Locals",ABC (WABC)
+https://tvpass.org/stream/abc.m3u8
+#EXTINF:-1 tvg-id="CBS.ny" tvg-name="CBS New York" group-title="Locals",CBS (WCBS)
+https://tvpass.org/stream/cbs.m3u8
+#EXTINF:-1 tvg-id="FOX.ny" tvg-name="FOX New York" group-title="Locals",FOX (WNYW)
+https://tvpass.org/stream/fox.m3u8
+#EXTINF:-1 tvg-id="NBC.ny" tvg-name="NBC New York" group-title="Locals",NBC (WNBC)
+https://tvpass.org/stream/nbc.m3u8
+#EXTINF:-1 tvg-id="TheCW" tvg-name="The CW" group-title="Locals",The CW
+https://tvpass.org/stream/the-cw.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TelemundoAlDia.lg" tvg-name="Telemundo Al Dia" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/TelemundoAlDia.png" group-title="Spanish",Telemundo Al Día
+https://nbc-telemundoaldia-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NoticiasTelemundo.lg" tvg-name="Noticias Telemundo" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/NoticiasTelemundo.png" group-title="Spanish",Noticias Telemundo Ahora
+https://nbc-noticiastelemundo-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VixCineOro.lg" tvg-name="Vix Cine de Oro" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/VixCineOro.png" group-title="Spanish",Vix: Cine de Oro
+https://vix-cinedeoro-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNEspanol.lg" tvg-name="CNN en Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/CNNE.png" group-title="Spanish",CNN en Español
+https://cnn-cnnespanol-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.lg" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/EstrellaTV.png" group-title="Spanish",Estrella TV
+https://estrellatv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanelaTV.lg" tvg-name="Canela TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/CanelaTV.png" group-title="Spanish",Canela.TV
+https://canelatv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ButacaTV.lg" tvg-name="Butaca TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ButacaTV.png" group-title="Spanish",Butaca TV
+https://butacatv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Moovimex.lg" tvg-name="Moovimex" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Moovimex.png" group-title="Spanish",Moovimex
+https://moovimex-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineVix.lg" tvg-name="Vix Cine y Series" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/VixCineOro.png" group-title="Spanish",Vix Cine y Series
+https://vix-cineseries-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalComedias.lg" tvg-name="Sony Canal Comedias" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/SonyCanalComedias.png" group-title="Spanish",Sony Canal Comedias
+https://sony-comedias-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalDramas.lg" tvg-name="Sony Canal Dramas" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/SonyCanalDramas.png" group-title="Spanish",Sony Canal Dramas
+https://sony-dramas-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyCanalCompetencias.lg" tvg-name="Sony Canal Competencias" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/SonyCanalCompetencias.png" group-title="Spanish",Sony Canal Competencias
+https://sony-competencias-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RuntimeEspanol.lg" tvg-name="Runtime Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Runtime.png" group-title="Spanish",Runtime Español
+https://runtime-espanol-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeEspanol.lg" tvg-name="Tastemade Espanol" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Tastemade.png" group-title="Spanish",Tastemade en Español
+https://tastemade-espanol-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoLatino.lg" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Vevo.png" group-title="Music",Vevo Latino
+https://vevo-latino-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PonteAlDia.lg" tvg-name="Ponte Al Dia" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/PonteAlDia.png" group-title="Spanish",Ponte Al Día
+https://pontealdia-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.lg" tvg-name="RCN Xtra" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/RCNXtra.png" group-title="Spanish",RCN Xtra
+https://rcn-xtra-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.lg" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ABCNews.png" group-title="News",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b4cc577d88c2bb.m3u8
+#EXTINF:-1 tvg-id="CBSNews.lg" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/CBSNews.png" group-title="News",CBS News
+https://cbsn-us-lg.cbsn.cbsnews.com/main/manifest.m3u8
+#EXTINF:-1 tvg-id="LiveNowFOX.lg" tvg-name="LiveNow from FOX" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/LiveNowFOX.png" group-title="News",LiveNow from FOX
+https://fox-livenow-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.lg" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Bloomberg.png" group-title="News",Bloomberg TV+
+https://live-bloomberg-lg-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USAOne.lg" tvg-name="USA TODAY" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/USAToday.png" group-title="News",USA TODAY
+https://usatoday-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Time.lg" tvg-name="TIME" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Time.png" group-title="News",TIME
+https://time-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax.lg" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Newsmax.png" group-title="News",Newsmax
+https://newsmax-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.lg" tvg-name="WeatherNation" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/WeatherNation.png" group-title="News",WeatherNation
+https://weathernation-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyNews.lg" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/SkyNews.png" group-title="News",Sky News
+https://skynews-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cheddar.lg" tvg-name="Cheddar News" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Cheddar.png" group-title="News",Cheddar News
+https://cheddar-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IONPlus.lg" tvg-name="ION Plus" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/IONPlus.png" group-title="Entertainment",ION Plus
+https://ion-plus-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TWD.lg" tvg-name="TWD Universe" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/TWD.png" group-title="Entertainment",The Walking Dead Universe
+https://amc-thewalkingdead-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HellKitchen.lg" tvg-name="Hells Kitchen" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/HellsKitchen.png" group-title="Entertainment",Hell's Kitchen
+https://hellskitchen-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KitchenNightmares.lg" tvg-name="Kitchen Nightmares" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/KitchenNightmares.png" group-title="Entertainment",Kitchen Nightmares
+https://kitchennightmares-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Degrassi.lg" tvg-name="Degrassi" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Degrassi.png" group-title="Entertainment",Degrassi
+https://degrassi-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nashville.lg" tvg-name="Nashville" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Nashville.png" group-title="Entertainment",Nashville
+https://nashville-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AllMovies.lg" tvg-name="All Movies" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/AllMovies.png" group-title="Movies",All Movies
+https://allmovies-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.lg" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/MovieSphere.png" group-title="Movies",MovieSphere
+https://moviesphere-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseAction.lg" tvg-name="FilmRise Action" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/FilmRise.png" group-title="Movies",FilmRise Action
+https://filmrise-action-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.lg" tvg-name="FilmRise Free Movies" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/FilmRise.png" group-title="Movies",FilmRise Free Movies
+https://filmrise-freemovies-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime360.lg" tvg-name="Crime 360" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Crime360.png" group-title="Crime",Crime 360
+https://crime360-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ColdCaseFiles.lg" tvg-name="Cold Case Files" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ColdCaseFiles.png" group-title="Crime",Cold Case Files
+https://coldcasefiles-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cops.lg" tvg-name="COPS" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Cops.png" group-title="Crime",COPS
+https://cops-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.lg" tvg-name="Forensic Files" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ForensicFiles.png" group-title="Crime",Forensic Files
+https://forensicfiles-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealCrime.lg" tvg-name="Real Crime" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/RealCrime.png" group-title="Crime",Real Crime
+https://realcrime-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.lg" tvg-name="Unsolved Mysteries" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/UnsolvedMysteries.png" group-title="Crime",Unsolved Mysteries
+https://unsolved-mysteries-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.lg" tvg-name="The New Detectives" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/TheNewDetectives.png" group-title="Crime",The New Detectives
+https://newdetectives-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IceRoadTruckers.lg" tvg-name="Ice Road Truckers" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/IceRoadTruckers.png" group-title="Reality",Ice Road Truckers
+https://iceroadtruckers-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ModernMarvels.lg" tvg-name="Modern Marvels" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ModernMarvels.png" group-title="Documentary",Modern Marvels
+https://modernmarvels-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PawnStars.lg" tvg-name="Pawn Stars" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/PawnStars.png" group-title="Reality",Pawn Stars
+https://pawnstars-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StorageWars.lg" tvg-name="Storage Wars" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/StorageWars.png" group-title="Reality",Storage Wars
+https://storagewars-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckDynasty.lg" tvg-name="Duck Dynasty" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/DuckDynasty.png" group-title="Reality",Duck Dynasty
+https://duckdynasty-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Biography.lg" tvg-name="Biography" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Biography.png" group-title="Documentary",Biography
+https://biography-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LMN.lg" tvg-name="LMN" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/LMN.png" group-title="Movies",Lifetime Movie Network
+https://lmn-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCine.lg" tvg-name="Pluto TV Cine" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/PlutoTV.png" group-title="Movies",Pluto TV Cine
+https://pluto-cine-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ShoutTV.lg" tvg-name="Shout TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ShoutTV.png" group-title="Entertainment",Shout! TV
+https://shout-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MysterTV.lg" tvg-name="Myster TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/MysterTV.png" group-title="Crime",Myster TV
+https://myster-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactWrestling.lg" tvg-name="Impact Wrestling" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ImpactWrestling.png" group-title="Sports",Impact Wrestling
+https://impact-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.lg" tvg-name="Stadium" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Stadium.png" group-title="Sports",Stadium
+https://stadium-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WPT.lg" tvg-name="World Poker Tour" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/WPT.png" group-title="Sports",World Poker Tour
+https://wpt-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USGA.lg" tvg-name="USGA TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/USGA.png" group-title="Sports",USGA TV
+https://usga-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.lg" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/OutdoorChannel.png" group-title="Sports",Outdoor Channel Adventure
+https://outdoor-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.lg" tvg-name="Pursuit UP" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Pursuit.png" group-title="Sports",Pursuit UP
+https://pursuit-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorsportTV.lg" tvg-name="Motorsport.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/MotorsportTV.png" group-title="Sports",Motorsport.tv
+https://motorsport-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSAntiques.lg" tvg-name="PBS Antiques" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/PBSAntiques.png" group-title="Lifestyle",PBS Antiques Roadshow
+https://pbs-antiques-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThisOldHouse.lg" tvg-name="This Old House" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ThisOldHouse.png" group-title="Lifestyle",This Old House
+https://thisoldhouse-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Homeful.lg" tvg-name="Homeful" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Homeful.png" group-title="Lifestyle",Homeful
+https://homeful-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Makeful.lg" tvg-name="Makeful" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Makeful.png" group-title="Lifestyle",Makeful
+https://makeful-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.lg" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Tastemade.png" group-title="Lifestyle",Tastemade
+https://tastemade-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.lg" tvg-name="Gusto TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/GustoTV.png" group-title="Lifestyle",Gusto TV
+https://gustotv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BonAppetit.lg" tvg-name="Bon Appetit" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/BonAppetit.png" group-title="Lifestyle",Bon Appétit
+https://bonappetit-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CookingLight.lg" tvg-name="Cooking Light" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/CookingLight.png" group-title="Lifestyle",Cooking Light
+https://cookinglight-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheDesignNetwork.lg" tvg-name="The Design Network" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/DesignNetwork.png" group-title="Lifestyle",The Design Network
+https://designnetwork-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Journy.lg" tvg-name="Journy" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Journy.png" group-title="Documentary",Journy
+https://journy-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Chiquilines.lg" tvg-name="Chiquilines" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Chiquilines.png" group-title="Kids",Chiquilines
+https://chiquilines-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pocketwatch.lg" tvg-name="Pocketwatch" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Pocketwatch.png" group-title="Kids",pocket.watch
+https://pocketwatch-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanAndFriends.lg" tvg-name="Ryan and Friends" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/RyanAndFriends.png" group-title="Kids",Ryan and Friends
+https://ryanfriends-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGO.lg" tvg-name="LEGO" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/LEGO.png" group-title="Kids",LEGO Channel
+https://lego-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.lg" tvg-name="KidoodleTV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/KidoodleTV.png" group-title="Kids",Kidoodle.TV
+https://kidoodle-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.lg" tvg-name="FailArmy" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/FailArmy.png" group-title="Comedy",FailArmy
+https://failarmy-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.lg" tvg-name="The Pet Collective" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ThePetCollective.png" group-title="Comedy",The Pet Collective
+https://petcollective-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JustForLaughs.lg" tvg-name="Just For Laughs" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/JustForLaughs.png" group-title="Comedy",Just For Laughs Gags
+https://jfl-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wired.lg" tvg-name="Wired" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Wired.png" group-title="Technology",WIRED
+https://wired-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArchitecturalDigest.lg" tvg-name="Architectural Digest" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/ArchitecturalDigest.png" group-title="Lifestyle",Architectural Digest
+https://archdigest-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GQ.lg" tvg-name="GQ" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/GQ.png" group-title="Lifestyle",GQ
+https://gq-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.lg" tvg-name="Vevo Pop" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Vevo.png" group-title="Music",Vevo Pop
+https://vevo-pop-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo80s.lg" tvg-name="Vevo 80s" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Vevo.png" group-title="Music",Vevo 80s
+https://vevo-80s-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.lg" tvg-name="Vevo 90s" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Vevo.png" group-title="Music",Vevo 90s
+https://vevo-90s-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.lg" tvg-name="Stingray Classic Rock" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Stingray.png" group-title="Music",Stingray Classic Rock
+https://stingray-classicrock-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHipHop.lg" tvg-name="Stingray Hip Hop" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Stingray.png" group-title="Music",Stingray Hip Hop/R&B
+https://stingray-hiphoprb-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcerts.lg" tvg-name="Stingray Qello" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/lg/Stingray.png" group-title="Music",Stingray Qello Concerts
+https://stingray-qello-lg.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="HBO.lat" group-title="Cine Premium",HBO Latino
+https://flst.p-cdn.com/hls/hbo/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.lat" group-title="Cine Premium",Star Channel
+https://flst.p-cdn.com/hls/starchannel/index.m3u8
+#EXTINF:-1 tvg-id="Warner.lat" group-title="Entretenimiento",Warner TV
+https://flst.p-cdn.com/hls/warner/index.m3u8
+#EXTINF:-1 tvg-id="Sony.lat" group-title="Entretenimiento",Sony Channel Latino
+https://flst.p-cdn.com/hls/sony/index.m3u8
+#EXTINF:-1 tvg-id="AXN.lat" group-title="Entretenimiento",AXN Latino
+https://flst.p-cdn.com/hls/axn/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.lat" group-title="Documentales",Discovery Latino
+https://flst.p-cdn.com/hls/discovery/index.m3u8
+#EXTINF:-1 tvg-id="NatGeo.lat" group-title="Documentales",NatGeo Latino
+https://flst.p-cdn.com/hls/natgeo/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="Argentina",Telefe (Nacional)
+https://edge-buenosaires-01-atsc.edge.vubiquity.com/live/atsc/Telefe/HLS/Telefe.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" group-title="Argentina",El Trece
+https://vmf.edge4k.tv/livetv/eltrece/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" group-title="Argentina",América TV
+https://live-edge01.telecentro.net.ar/live/smil:am.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" group-title="Argentina",El Nueve
+https://1236.global.cdn.fastly.net/el_nueve/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" group-title="Argentina",TN (Todo Noticias)
+https://live-edge01.telecentro.net.ar/live/smil:tn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Argentina",C5N
+https://live-edge01.telecentro.net.ar/live/smil:c5n.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+" group-title="Argentina",La Nación +
+https://live-edge01.telecentro.net.ar/live/smil:ln.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Crónica.ar" tvg-name="Cronica TV" group-title="Argentina",Crónica TV
+https://live-edge01.telecentro.net.ar/live/smil:cro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Argentina",Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Deportes",TyC Sports
+https://live-edge01.telecentro.net.ar/live/smil:tyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Deportes",DeporTV
+https://live-edge01.telecentro.net.ar/live/smil:dep.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" group-title="Argentina",TV Pública
+https://live-edge01.telecentro.net.ar/live/smil:tvp.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="UniversalPlus.lat" group-title="Premium",Universal+ Premiere
+https://stream.ads.ottera.tv/playlist.m3u8?it=universal_premiere
+#EXTINF:-1 tvg-id="Golden.lat" group-title="Cine",Golden Latino
+https://stream.ads.ottera.tv/playlist.m3u8?it=golden_latino
+#EXTINF:-1 tvg-id="Space.lat" group-title="Cine",Space Latino
+https://flst.p-cdn.com/hls/space/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.lat" group-title="Series",TNT Series
+https://flst.p-cdn.com/hls/tntseries/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.lat" group-title="Infantil",Cartoon Network Latino
+https://flst.p-cdn.com/hls/cartoon/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-name="El Doce Cordoba" group-title="Argentina Interior",El Doce (Córdoba)
+https://vmf.edge4k.tv/livetv/el12/index.m3u8
+#EXTINF:-1 tvg-id="Canal10Cba.ar" tvg-name="Canal 10 Cordoba" group-title="Argentina Interior",Canal 10 (Córdoba)
+https://vmf.edge4k.tv/livetv/c10cordoba/index.m3u8
+#EXTINF:-1 tvg-id="Canal9Mza.ar" tvg-name="Canal 9 Mendoza" group-title="Argentina Interior",Canal 9 (Mendoza)
+https://vmf.edge4k.tv/livetv/c9mendoza/index.m3u8
+#EXTINF:-1 tvg-id="Canal7Mza.ar" tvg-name="Canal 7 Mendoza" group-title="Argentina Interior",Canal 7 (Mendoza)
+https://vmf.edge4k.tv/livetv/c7mendoza/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Ros.ar" tvg-name="Canal 3 Rosario" group-title="Argentina Interior",Canal 3 (Rosario)
+https://vmf.edge4k.tv/livetv/c3rosario/index.m3u8
+#EXTINF:-1 tvg-id="Canal5Ros.ar" tvg-name="Telefe Rosario" group-title="Argentina Interior",Telefe Rosario
+https://vmf.edge4k.tv/livetv/c5rosario/index.m3u8
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-name="Chaco TV" group-title="Argentina Interior",Chaco TV (Local)
+https://vmf.edge4k.tv/livetv/chacotv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="QuieroMusica.ar" tvg-name="Quiero Musica" group-title="Musica",Quiero Música en mi Idioma
+https://vmf.edge4k.tv/livetv/quiero/index.m3u8
+#EXTINF:-1 tvg-id="KZO.ar" tvg-name="KZO" group-title="Variedades",KZO Entertainment
+https://vmf.edge4k.tv/livetv/kzo/index.m3u8
+#EXTINF:-1 tvg-id="CanalA.ar" tvg-name="Canal A" group-title="Cultura",Canal A
+https://vmf.edge4k.tv/livetv/canala/index.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Canal Encuentro" group-title="Cultura",Canal Encuentro
+https://live-edge01.telecentro.net.ar/live/smil:enc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka" group-title="Infantil",Paka Paka
+https://live-edge01.telecentro.net.ar/live/smil:pak.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Cinecanal.lat" group-title="Cine",Cinecanal
+https://flst.p-cdn.com/hls/cinecanal/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.lat" group-title="Series",Sony Channel
+https://flst.p-cdn.com/hls/sonychannel/index.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.lat" group-title="Cine y Series",Warner TV
+https://flst.p-cdn.com/hls/warner/index.m3u8
+#EXTINF:-1 tvg-id="A&E.lat" group-title="Variedades",A&E Latino
+https://flst.p-cdn.com/hls/ae/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.lat" group-title="Series",Universal TV
+https://flst.p-cdn.com/hls/universaltv/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.lat" group-title="Cine",Studio Universal
+https://flst.p-cdn.com/hls/studiouniversal/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.lat" group-title="Cine",Paramount Network Latino
+https://flst.p-cdn.com/hls/paramount/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal10.uy" tvg-name="Canal 10 Uruguay" group-title="Uruguay",Canal 10 (Uruguay)
+https://vmf.edge4k.tv/livetv/c10uruguay/index.m3u8
+#EXTINF:-1 tvg-id="Teledoce.uy" tvg-name="Teledoce" group-title="Uruguay",Teledoce (Uruguay)
+https://vmf.edge4k.tv/livetv/teledoce/index.m3u8
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT Paraguay" group-title="Paraguay",SNT (Paraguay)
+https://vmf.edge4k.tv/livetv/snt/index.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" group-title="Paraguay",Telefuturo (Paraguay)
+https://vmf.edge4k.tv/livetv/telefuturo/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DiscoveryID.lat" group-title="Documentales",Discovery ID
+https://flst.p-cdn.com/hls/id/index.m3u8
+#EXTINF:-1 tvg-id="TLC.lat" group-title="Estilo de Vida",TLC Latino
+https://flst.p-cdn.com/hls/tlc/index.m3u8
+#EXTINF:-1 tvg-id="History.lat" group-title="Documentales",History Channel Latino
+https://flst.p-cdn.com/hls/history/index.m3u8
+#EXTINF:-1 tvg-id="H2.lat" group-title="Documentales",History 2 Latino
+https://flst.p-cdn.com/hls/h2/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.lat" group-title="Documentales",Animal Planet Latino
+https://flst.p-cdn.com/hls/animalplanet/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TyCSports.ar" group-title="Deportes",TyC Sports HD
+https://live-edge01.telecentro.net.ar/live/smil:tyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" group-title="Deportes",Fox Sports Argentina
+https://vmf.edge4k.tv/livetv/foxsports/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" group-title="Deportes",Fox Sports 2
+https://vmf.edge4k.tv/livetv/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.ar" group-title="Deportes",Fox Sports 3
+https://vmf.edge4k.tv/livetv/foxsports3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.lat" group-title="Deportes",ESPN Latino
+https://flst.p-cdn.com/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.lat" group-title="Deportes",ESPN 2 Latino
+https://flst.p-cdn.com/hls/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.lat" group-title="Deportes",ESPN 3 Latino
+https://flst.p-cdn.com/hls/espn3/index.m3u8
+#EXTINF:-1 tvg-id="DSports.lat" group-title="Deportes",DSports (DirecTV)
+https://vmf.edge4k.tv/livetv/dsports/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV HD
+https://live-edge01.telecentro.net.ar/live/smil:dep.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" group-title="Deportes",Win Sports
+https://vmf.edge4k.tv/livetv/winsports/index.m3u8
+
 
 
