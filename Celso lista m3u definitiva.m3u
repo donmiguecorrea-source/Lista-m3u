@@ -483,8 +483,8 @@ Locomotion (sin señal)
 EXTINF:-1 tvg-id="Locomotion.ar" tvg-logo="HOfGX6a.png" , Locomotion | SD
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-Anime TV (sin señal)
-#EXTINF:-1 tvg-id="PlutoTVAnime.de" tvg-logo="https://i.imgur.com/GHW6prH.png", Pluto TV Anime
+Anime TV (anda pero es aleman)
+EXTINF:-1 tvg-id="PlutoTVAnime.de" tvg-logo="https://i.imgur.com/GHW6prH.png", Pluto TV Anime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
 
 Cartoon Network (sin señal)
@@ -505,10 +505,10 @@ Anime (sin señal)
 EXTINF:-1 ,Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://jackandthegeekstalk.files.wordpress.com/2016/11/x-men-logo.png" tvg-url="",24/7 X-Men Serie Animada
+EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://jackandthegeekstalk.files.wordpress.com/2016/11/x-men-logo.png" tvg-url="",24/7 X-Men Serie Animada
 http://xdgo.live:8080/live/eDNxExdG9N/vtyQXdGCME/23862.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="",Anime Action
+EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-url="",Anime Action
 https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=737e45d5-7af3-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 EXTINF:-1 tvg-id="105940" tvg-name="Anime Loving TV" tvg-logo="http://azxtv.com/aztv.png", Anime Loving TV
@@ -562,26 +562,26 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
 EXTINF:-1 tvg-logo="https://i.imgur.com/HOfGX6a.png", Locomotion 4
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp", Retro Cartoon | SD
+EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp", Retro Cartoon | SD
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
 
 EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png", 24/7 El Chavo
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png",24/7 Futurama
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png",24/7 Futurama
 http://zutv.online:2086/live/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/35.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="",24/7 Los Simpsons
+EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="",24/7 Los Simpsons
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/3/3e/Malcolm_in_THe_MIddle_logo.jpg" tvg-url="",24/7 Malcolm in the Middle
 http://zutv.online:2086/live/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/52.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png",24/7 Resident Evil Channel
+EXTINF:-1 tvg-logo="https://i.imgur.com/nmdF32v.png",24/7 Resident Evil Channel
 https://d2nvs31859zcd8.cloudfront.net/ebcecdd073db50ee082c_wonderweiss_twitch_40430295645_1612333329/chunked/index-dvr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://static.wikia.nocookie.net/ytvwoah/images/b/bd/Spider-Man_1994.png" ,24/7 SPIDER-MAN
+EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://static.wikia.nocookie.net/ytvwoah/images/b/bd/Spider-Man_1994.png" ,24/7 SPIDER-MAN
 http://zutv.online:2086/live/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/69.ts
 
 
