@@ -2213,3 +2213,23 @@ https://live-edge01.telecentro.net.ar/live/smil:tlf.smil/playlist.m3u8
 
 
 
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ChacoTV" group-title="ARGENTINA",Chaco TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://vmf.edge4k.tv/livetv/chacotv/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe" group-title="ARGENTINA",Telefe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-edge01.telecentro.net.ar/live/smil:tlf.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports" group-title="DEPORTES",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live-edge01.telecentro.net.ar/live/smil:tyc.smil/playlist.m3u8
+
+
+
+
