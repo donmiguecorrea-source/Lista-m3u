@@ -819,6 +819,59 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
 
 
+DEPORTES Y FUTBOL
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" , LA LLAMA Sports 1
+https://bvsat02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" , LA LLAMA Sports 2
+https://bvsat02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" , LA LLAMA Sports 3
+https://bvsat02.cdn.rcs.net.ar/mnp/espn/output.mpd
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg", TyC SPORTS 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" , TyC SPORTS Internacional
+http://177.234.245.26:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png", DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" , TELEFE DEPORTES
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png", Tango Sports 
+https://panel.dattalive.com/8026/8026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" , Tango Sports 2
+https://panel.dattalive.com/8194/8194/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" , NEO TV DIGITAL  16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" , CANAL 6 MAR DEL PLATA
+https://panel.dattalive.com:443/8186/8186/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png", LA PODEROSA TV
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" , Bayres TV 41.1
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS8-k3C2Q16Jb1qEv1AX1OZPNK3YvwhoML3ml6MS5Ogqf2EB5Xpvf8k348VJ2CXW9MXQ&usqp=CAU" , SS Sports 1
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS8-k3C2Q16Jb1qEv1AX1OZPNK3YvwhoML3ml6MS5Ogqf2EB5Xpvf8k348VJ2CXW9MXQ&usqp=CAU" , SS Sports 2
+https://delivery.cdn.rcs.net.ar/mnp//tntsports/output.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwS8-k3C2Q16Jb1qEv1AX1OZPNK3YvwhoML3ml6MS5Ogqf2EB5Xpvf8k348VJ2CXW9MXQ&usqp=CAU" , SS Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/mnp/espn/output.mpd
+
+
+
+
 
 
 
