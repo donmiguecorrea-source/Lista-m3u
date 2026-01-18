@@ -1146,6 +1146,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d0
 
 
 
-
+#EXTINF:-1 tvg-id="VixCineOro.us" tvg-name="Vix Cine de Oro" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung/VixCineOro.png" group-title="Spanish",Vix: Cine de Oro
+https://vix-cinedeoro-samsung.amagi.tv/playlist.m3u8
 
 
