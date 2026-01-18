@@ -2232,4 +2232,19 @@ https://live-edge01.telecentro.net.ar/live/smil:tyc.smil/playlist.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="ChacoTV" group-title="ARGENTINA",Chaco TV (Directo)
+https://vmf.edge4k.tv/live/chaco_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="TN" group-title="ARGENTINA",TN Todo Noticias
+https://live-edge01.telecentro.net.ar/live/smil:tn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="C5N" group-title="ARGENTINA",C5N
+https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/11331.m3u8
+
+#EXTINF:-1 tvg-id="Hentai.Universe" group-title="ADULTOS",Hentai Universe (24/7)
+http://cdn.adultiptv.net/hentai.m3u8
+
+
+
 
