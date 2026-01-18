@@ -2202,6 +2202,11 @@ https://bein-sports-extra-espanol-vizio.amagi.tv/playlist.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="ChacoTV" group-title="PRUEBA",Chaco TV
+https://vmf.edge4k.tv/livetv/chacotv/index.m3u8
+#EXTINF:-1 tvg-id="Telefe" group-title="PRUEBA",Telefe
+https://live-edge01.telecentro.net.ar/live/smil:tlf.smil/playlist.m3u8
 
 
 
