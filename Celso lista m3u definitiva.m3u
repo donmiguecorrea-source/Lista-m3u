@@ -43,6 +43,8 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
+
+
 #EXTINF:-1 tvg-id="Canal9" tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Canal_9_Libertad_logo_2021.png/1200px-Canal_9_Libertad_logo_2021.png" group-title="Aire Argentina",Canal 9 (Elnueve)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.elnueve.com.ar/
@@ -1300,3 +1302,91 @@ rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.ustream.tv/
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://telefe.com/
+https://viacom-telefe-1-ar.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Am%C3%A9rica_TV_logo_2016.png/1200px-Am%C3%A9rica_TV_logo_2016.png",América TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.americatv.com.ar/
+https://unlimited6-cl-unlimited.tntv.com.ar/america_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TyC_Sports_logo_2020.png/1200px-TyC_Sports_logo_2020.png",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.tycsports.com/
+https://tyc-samsung-ar.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fox_Sports_logo.svg/1200px-Fox_Sports_logo.svg.png",Fox Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
+https://foxsports-ar-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineCanal" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cinecanal_2022.png",Cinecanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://vix.com/
+https://vix-peliculas-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TNT_logo_%282016%29.svg/1200px-TNT_logo_%282016%29.svg.png",TNT (Cine)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
+https://tnt-cine-ar-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nickelodeon_2023.svg/1200px-Nickelodeon_2023.svg.png",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pluto.tv/
+https://pluto-nick-latino-samsung.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="VixAccion" tvg-name="Vix Acción",Vix Películas Acción
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://vix.com/
+https://vix-accion-samsung.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/TeledeporteTVE.png",Teledeporte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rtve.es/
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#EXTINF:-1 tvg-id="Canal7Neuquen" tvg-name="Canal 7 Neuquén" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/1401_Canal_7_Neuquen.png",Canal 7 Neuquén
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.canal7neuquen.com.ar/
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Canal9Televida" tvg-name="Canal 9 Televida Mendoza" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/9Televida.png",Canal 9 Televida Mendoza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.elnueve.com/
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="RetroMagico" tvg-name="Retro Magico" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/1364_Retro_Magico.png",Retro Magico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.bozztv.com/
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
