@@ -2202,62 +2202,6 @@ https://bein-sports-extra-espanol-vizio.amagi.tv/playlist.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="ChacoTV" group-title="PRUEBA",Chaco TV
-https://vmf.edge4k.tv/livetv/chacotv/index.m3u8
-#EXTINF:-1 tvg-id="Telefe" group-title="PRUEBA",Telefe
-https://live-edge01.telecentro.net.ar/live/smil:tlf.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="ChacoTV" group-title="ARGENTINA",Chaco TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://vmf.edge4k.tv/livetv/chacotv/index.m3u8
-
-#EXTINF:-1 tvg-id="Telefe" group-title="ARGENTINA",Telefe HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live-edge01.telecentro.net.ar/live/smil:tlf.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports" group-title="DEPORTES",TyC Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live-edge01.telecentro.net.ar/live/smil:tyc.smil/playlist.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="ChacoTV" group-title="ARGENTINA",Chaco TV (Directo)
-https://vmf.edge4k.tv/live/chaco_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="TN" group-title="ARGENTINA",TN Todo Noticias
-https://live-edge01.telecentro.net.ar/live/smil:tn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="C5N" group-title="ARGENTINA",C5N
-https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/11331.m3u8
-
-#EXTINF:-1 tvg-id="Hentai.Universe" group-title="ADULTOS",Hentai Universe (24/7)
-http://cdn.adultiptv.net/hentai.m3u8
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="ChacoTV" group-title="PRUEBA",Chaco TV
-https://vmf.edge4k.tv/live/chaco_tv/index.m3u8
-#EXTINF:-1 tvg-id="C5N" group-title="PRUEBA",C5N Noticias
-https://c5n.mira.tube/hls-live/live.m3u8
-#EXTINF:-1 tvg-id="Hentai" group-title="ADULTOS",Hentai Gold
-https://stream.ads.ottera.tv/playlist.m3u8?it=hentai_gold
-
-
-
 
 
 
