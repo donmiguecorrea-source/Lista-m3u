@@ -132,6 +132,10 @@ https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj",C5N Ⓨ
 https://anym3u8player.com/youtube.php/id/6963e441a9065.m3u8
 
+#EXTINF:-1 group-title="Amerika",Argentina - C5N
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1
+
+
 #EXTINF:-1 tvg-name="C5N Argentina (repo)" ,C5N
 https://iptv-org.github.io/iptv/channels/ar/C5N.m3u8
 
@@ -1187,3 +1191,112 @@ https://api.m3use.projectmoose.xyz/m3u/celso0094/CelsoS/696e9b5497eab43029bd783c
 
 
 
+#EXTINF:-1,Argentina - 99.1 Vorterix Bahía
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+rtmp://64.56.64.54/12606/12606.stream
+
+#EXTINF:-1,Argentina - AM 1010 Onda Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/ustreamVideo/8744353streams/live/playlist.m3u8
+
+#EXTINF:-1,Argentina - AM SPORTS ARGENTINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,Argentina - TN 24 Horas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tn.com.ar/
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
+
+#EXTINF:-1,Argentina - C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.c5n.com/
+rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1
+
+#EXTINF:-1,Argentina - C5N Argentina (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+rtmp://c5n.stweb.tv:1935/c5n/live
+
+#EXTINF:-1,Argentina - Camara De Diputados
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+rtmp://argos.hcdn.gob.ar/live/evento-1-2.stream
+
+#EXTINF:-1,Argentina - CANAL 10 ENTRE RIOS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+
+#EXTINF:-1,Argentina - Canal 12 – Córdoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+
+#EXTINF:-1,Argentina - CANAL 13 ARGENTINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1,Argentina - Canal 13 TD – Rio Cuarto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/ustreamVideo/1358413/streams/live/playlist.m3u8
+
+#EXTINF:-1,Argentina - Canal 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.canal26.com/
+http://200.115.194.1:8080/Canal26?MSWMExt=.asf
+
+#EXTINF:-1,Argentina - Canal 3 – Trelew
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+rtmp://198.49.76.226:1935/inovahd/inovahd
+
+#EXTINF:-1,Argentina - Canal 5 Tigre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
+
+#EXTINF:-1,Argentina - Canal 79 Mar del Plata
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+rtmp://144.76.17.146/cn79a/cn79a
+
+#EXTINF:-1,Argentina - Canal Rural 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+
+#EXTINF:-1,Argentina - DOS 99.5 FM CORRIENTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://radiodos.coninfo.net:8500/stream?type=.flv&anticache=8342301029
+
+#EXTINF:-1,Argentina - JUJUY TV CANAL 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+rtsp://200.43.187.18/canal7
+
+#EXTINF:-1,Argentina - LAPACHO TV CANAL 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=http://www.lapachotv.com.ar/
+rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
+
+#EXTINF:-1,Argentina - Nuestra Radio, Cordoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/ustreamVideo/15271401/streams/live/playlist.m3u8
+
+#EXTINF:-1,Argentina - Quiero Musica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:-1,Argentina - TN24 AR (HD Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tn.com.ar/
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
+
+#EXTINF:-1,Argentina - Tucuman Canal 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
+
+#EXTINF:-1,Argentina - VIVRA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.ustream.tv/
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
