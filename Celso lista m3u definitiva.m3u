@@ -43,11 +43,40 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
+#EXTINF:-1 tvg-id="Canal9" tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Canal_9_Libertad_logo_2021.png/1200px-Canal_9_Libertad_logo_2021.png" group-title="Aire Argentina",Canal 9 (Elnueve)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.elnueve.com.ar/
+https://unlimited1-cl-unlimited.tntv.com.ar/c9/index.m3u8
+
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Principal)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://telefe.com/
+https://viacom-telefe-1-ar.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.Alt" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mitelefe.com/
+https://telefe-samsung-ar.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.Alt2" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 2 - Amagi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
+https://viacom-telefe-ar.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.Alt3" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 3 - Pluto Service)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://pluto.tv/
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f33060d4b89f500076a084c/master.m3u8?advertisingId=&creativeId=&deviceDNT=0&deviceId=DEVICE_ID&deviceMake=Samsung&deviceModel=Samsung&deviceType=samsung_tvplus&deviceVersion=1.0&appVersion=1.0&sessionID=1
+
+#EXTINF:-1 tvg-id="Telefe.Alt4" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 4 - Direct Stream)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://telefe.com/
+https://live-telefe.strm.com.ar/telefe/index.m3u8
 
 
 EXTINF:-1 tvg-id="1909" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
@@ -1082,6 +1111,79 @@ https://unlimited6-cl-unlimited.tntv.com.ar/cronica/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.canal26.com/
 https://unlimited1-cl-unlimited.tntv.com.ar/canal26/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TN_YouTube" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Todo_Noticias_2016.svg" group-title="YouTube Live",TN (YouTube)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ytdl.fgl.dev/publish/live/https://www.youtube.com/watch?v=S0Xy_W3Tcl0/master.m3u8
+
+#EXTINF:-1 tvg-id="C5N_YouTube" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/C5N_Logo_2020.png" group-title="YouTube Live",C5N (YouTube)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ytdl.fgl.dev/publish/live/https://www.youtube.com/watch?v=U97M84r7wY0/master.m3u8
+
+
+
+
+
+
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml.gz"
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s160-c-k-c0x00ffffff-no-rj", LN+ (La Nacion)
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/67f86f098d4666c5caa7c057.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c0b810c4-e4e9-4a33-9cb9-6f457b890510-profile_image-70x70.png", TeVeo Mendoza
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/684745a74aa83e8e245183f5.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://cloudfront-arc.cienradios.com/la100/logo/logoog.png", La 100 Argentina
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68161ed7f6da4751de46fe66.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", Canal 7 Mendoza
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681d7565ee6a3b3a85715f64.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Córdoba" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/30359190-1b8a-4157-a37b-f8c0247f197b-profile_image-70x70.png", TVEO Ric Cuarto
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68474319858814c7678b0752.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrs6F_WGx11R1J9rjfsjgDnUJPb0F38JzM1g70q7JLCls=s160-c-k-c0x00ffffff-no-rj", Cafe Music BGM Channel
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6818f801aabfaa38263c56a3.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", America Tucuman
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6826d08c34f036e205adb256.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s160-c-k-c0x00ffffff-no-rj", Telefe
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681020c1e1f522d01a8a84b0.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNmtHm2S-HeI4aAXnjwPFirVS5kwBayQ8tg&s", El Nueve 2
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681aefee626edc70d7214ca9.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://i.imgur.com/HfyKPpD.png", El Doce Córdoba
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/67f6bc096ebc0fecbf2ca8f0.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://files.catbox.moe/za53j7.png", Bravo TV
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68103e445cb6d2826d29ba4f.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://files.catbox.moe/chk4rh.png", Ciudad Magazine
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681041165bda46552a55a1d9.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://logowik.com/content/uploads/images/tvp-television-publica2725.logowik.com.webp", Televisión Pública
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68123d80fc32c725356b0d38.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/250px-Elsiete.webp.png", Siete Mendoza Argentina
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6871680e2ad54a01a9db8959.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Santa Fe-Rosario" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cae28b92-72b2-4523-ab24-85d1645ac2c3-profile_image-70x70.png", Canal 1 Sta Fe
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68474a324aa83e8e245183f6.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Argentina" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png", TierraMia TV
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68161e59f6da4751de46fe64.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://yt3.ggpht.com/rb2RIZEJgafAjjJgSgfz9xsi9SH311amSYRLysHW-qBTFLyaPrijcoDLdqQR609DY_G_g-Ia8LU=s48-c-k-c0x00ffffff-no-rj", Canal Siete Mendoza
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/688d07d2707ddd66ee1e6217.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.ggpht.com/oksN402135L1H8-iX1xbjVIuAk-ejMDPwSonVY0gSrLtxYuZwbGbJurculXj6J0LhwRf7JPBslk=s48-c-k-c0x00ffffff-no-rj", Radio 10 - AM 710
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/688b7409d4fdbaff3f9379a1.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7OiOHjajUw4VoGvdHU0Udf0dvASyayQnNkuz-x38azFIqb89fxLR3ZFLp8jGzeoVu1AYLKLMEMpd6rGT8bKe1IsaK8PhW3u46xTDQNNkLOJlHerPDXxM2fIuc43HLdoVGBaxsh1RmBOX1/s1600/canal4jujuy.png", Canal 4 Jujuy
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6870055cb0440c66c98364b7.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://www.ubp.edu.ar/wp-content/uploads/2018/10/Canal-10.jpg", Canal 10 Córdoba
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68700bcbb0440c66c98364b8.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://files.kick.com/images/user/60074420/profile_image/conversion/4e83b575-4e63-43dd-b750-8b473a06b440-fullsize.webp", Canal C
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68654a0739a6f1af7b5d6779.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png", Radio Mitre
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/688991d390db6e91eaba7b6e.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://play-lh.googleusercontent.com/Q4Qn1H426v4nKYZ8ybR-qtHdHInljTnofeC2KNtyys5Zid06KJYtoe3P3MZNWVbT_p8=w480-h960-rw", Radio Melodia FM - RJ
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68975c3a4b49764d1843c217.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Religión" tvg-logo="https://i.ibb.co/rRwP9VPr/2025-05-02-19-45-05.png", Enlace de TV
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68976000dd0d09fe8f99e62b.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.googleusercontent.com/vIYh4fJ4FiOeD0U8sGUEUZQf3DaK-PME00Ckh7cFf4CRmC3EHopvUsjbgYKhNVkFXURSzltWYQ=s160-c-k-c0x00ffffff-no-rj", America TV
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68101db52c39687cbf23de92.m3u8?uid=celso0094&pkey=aMd8AQeX
+#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://telecentro.com.ar/img/cm/channels/america@2x.png", AmericaTV ARG
+https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/683907f5642fb5fce8d4c3cd.m3u8?uid=celso0094&pkey=aMd8AQeX
+
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.pinimg.com/736x/d7/70/c5/d770c5abeabe406a12a16a0e23c4f652.jpg", Tom & Jerry 24/7
+https://api.m3use.projectmoose.xyz/m3u/celso0094/CelsoS/696e9b5497eab43029bd783c.m3u8?uid=celso0094&pkey=aMd8AQeX
+
 
 
 
