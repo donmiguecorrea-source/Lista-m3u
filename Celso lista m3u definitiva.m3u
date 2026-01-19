@@ -1390,3 +1390,8 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.bozztv.com/
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="RetroMagico" tvg-name="Retro Magico" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/1364_Retro_Magico.png",Retro Magico
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
