@@ -2,6 +2,14 @@
 #EXTINF:-1 tvg-ID="ext" tvg-name="NG FEDERAL CHACO" tvg-logo="https://pbs.twimg.com/profile_images/1520248287202365440/DqQ5t3MO_400x400.jpg", NG FEDERAL CHACO
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
+
+
+
+CANALES LOCALES ############################################################################################################################################################################################################
+
+
+
+
 #EXTINF:-1 tvg-id="1353" tvg-name="Ciudad TV Resistencia" tvg-logo="https://cdn.m3u.cl/logo/1353_Ciudad_TV_Resistencia.png", Ciudad TV Resistencia | AR 
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8?
 
@@ -32,12 +40,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-name="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="https://i.postimg.cc/3R2nS4Mx/rtn.png",RTN Neuquén 
-https://media.neuquen.gov.ar/rtn/television/media.m3u8
-
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
 
@@ -59,19 +61,23 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8 
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png",Argentinisima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8 
+https://stream1.sersat.com/hls/argentinisima.m3u8
 
-EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+EXTINF:-1 , Canal Rural Ⓨ
+https://anym3u8player.com/youtube.php/id/6963ccb7ef186.m3u8
 
 #EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036 
 
-EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:-1 tvg-id="LitusTV.ar" tvg-name="Litus TV" tvg-logo="https://i.imgur.com/QIGSf4L.png",Litus TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
-https://panel.host-live.com:19360/8250/8250.m3u8
+
+
+
+
+
+CANALES DE NOTICIA NACIONALES ############################################################################################################################################################################################################
 
 
 
@@ -108,58 +114,35 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 EXTINF:-1 tvg-name="Telefe Noticias Ⓨ" ,Telefe Noticias Ⓨ
 https://anym3u8player.com/youtube.php/id/6962c514ed347.m3u8
 
-EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/gb2iih.png",Unife TV
+#EXTINF:-1 tvg-id="VTV.ar" tvg-name="VTV" tvg-logo="https://i.imgur.com/TLaausJ.png",VTV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/gb2iih.png",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar",Telemax
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-name="Canal 2 Misiones" tvg-logo="https://i.imgur.com/YqTNXDf.png",Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-#EXTINF:0 channel-id="telemundo-noticias-noreste" channel-number="4490" tvg-logo="https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65791199dfed030008d031d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Noticias Noreste
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b6e2-c01c-11f0-8daf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8e17388-3fe1-4001-97ee-aa69fd9dce64&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="cnn-xpress" channel-number="4525" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" tvc-guide-art="https://images.pluto.tv/channels/673248f9030a2c0008033af8/featuredImage_1755019017464.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", CNN XPRESS
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673248f9030a2c0008033af8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b73c-c01c-11f0-909b-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=75312f01-4e3d-4639-933c-8a1455d7bce0&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="estrella-news" channel-number="4530" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Estrella News
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b78c-c01c-11f0-b96d-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af9b0d15-b9ff-4249-badf-0024b02f16e3&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="494" tvg-name="UCL TelevisiÃ³n LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL TelevisiÃ³n LATAM  | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="501" tvg-name="TVGE Internacional" tvg-logo="https://www.m3u.cl/logo/501_TVGE_Internacional.png", TVGE Internacional  | GQ
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 España
-http://176.65.146.237:8401/play/a0ae/index.m3u8
-
-EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
-
-#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV Universidad" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" ,TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-EXTINF:-1 tvg-id="0937" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls
-
+#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="https://i.imgur.com/OamBiS5.png",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 EXTINF:-1 , Canal 8 San Juan Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cdfbab267.m3u8
 
+#EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="https://i.postimg.cc/3R2nS4Mx/rtn.png",RTN Neuquén 
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
 
-EXTINF:-1 , Canal Rural Ⓨ
-https://anym3u8player.com/youtube.php/id/6963ccb7ef186.m3u8
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://panel.host-live.com:19360/8250/8250.m3u8
+
+
+
+
+
+CANALES DE DEPORTES Y AUTOS ############################################################################################################################################################################################################
+
+
+
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
@@ -171,11 +154,18 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-name="Garage TV" tvg-logo="https://i.imgur.com/FqFxog1.png",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="LitusTV.ar" tvg-name="Litus TV" tvg-logo="https://i.imgur.com/QIGSf4L.png",Litus TV
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 #EXTINF:0 channel-id="estrella-tv" channel-number="4370" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", EstrellaTV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b2f0-c01c-11f0-aeeb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb51c0f6-849a-4e2f-bcaf-62f1cb3919f7&userId=&serverSideAds=true
+
+
+
+
+CANALES DE PELICULAS ############################################################################################################################################################################################################
+
 
 
 
@@ -184,9 +174,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
 
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" tvg-logo="https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp",Cosmos Tv
 https://canaletaplus.com:3922/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-name="Canal 2 Misiones" tvg-logo="https://i.imgur.com/YqTNXDf.png",Canal 2 Misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" tvg-logo="https://i.imgur.com/tElJr3e.png",Canal 4 Posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
@@ -197,8 +184,8 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/7f7M7zl.png",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-id="VTV.ar" tvg-name="VTV" tvg-logo="https://i.imgur.com/TLaausJ.png",VTV
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-id="QuanticaTV.ar@SD",Quantica TV 
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 #EXTINF:0 channel-id="cine-premiere" channel-number="4090" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Cine Premiere", Cine Premiere 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a8aa-c01c-11f0-a8c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3cadf2f3-c69c-493d-9d43-7dac1865ab0f&userId=&serverSideAds=true 
@@ -231,11 +218,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XtremaCineClasico.ar@SD",Xtrema Cine Clasico 
+EXTINF:-1 tvg-id="XtremaCineClasico.ar@SD",Xtrema Cine Clasico 
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460 
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="XtremaTerror.ar@SD",Xtrema Terror 
+EXTINF:-1 tvg-id="XtremaTerror.ar@SD",Xtrema Terror 
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456 
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8 
 
@@ -259,6 +246,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 
 #EXTINF:0 channel-id="telemundo-telenovelas-clasicas-ptv1" channel-number="4180" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Telenovelas Clásicas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae5e-c01c-11f0-a1b3-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29c128fe-0c7f-4e99-889c-7986fd2c851f&userId=&serverSideAds=true 
+
+
+
+
+
+
+CANALES DE ANIME E INFANTILES ############################################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons 
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390 
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVToonsClasico.us@Spain",Pluto TV Toons Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -296,12 +297,68 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="105940" tvg-name="Loving TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png", Pluto Anime TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=fa8df6f1-7af3-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons 
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390 
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Yu-Gi-Oh%21_%28Logo%29.jpg" tvg-url="", 24/7 YuGiOh
+https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-EXTINF:-1 , Tom y Jerry Ⓨ
-https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="",24/7 Kenan & Kel 
+https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+
+
+
+
+
+CANALES DE NOTICIAS INTERNACIONALES Y OTROS ############################################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:0 channel-id="telemundo-noticias-noreste" channel-number="4490" tvg-logo="https://images.pluto.tv/channels/65791199dfed030008d031d3/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65791199dfed030008d031d3/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Telemundo Noticias Noreste
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b6e2-c01c-11f0-8daf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8e17388-3fe1-4001-97ee-aa69fd9dce64&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cnn-xpress" channel-number="4525" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG_1755019014490.png" tvc-guide-art="https://images.pluto.tv/channels/673248f9030a2c0008033af8/featuredImage_1755019017464.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", CNN XPRESS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673248f9030a2c0008033af8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b73c-c01c-11f0-909b-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=75312f01-4e3d-4639-933c-8a1455d7bce0&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="estrella-news" channel-number="4530" tvg-logo="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Estrella News
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b78c-c01c-11f0-b96d-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af9b0d15-b9ff-4249-badf-0024b02f16e3&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisiaen LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL TelevisiÃ³n LATAM  | UY
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="501" tvg-name="TVGE Internacional" tvg-logo="https://www.m3u.cl/logo/501_TVGE_Internacional.png", TVGE Internacional  | GQ
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 España
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+
+EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Universidad" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" ,TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
+
+
+
+
+CANALES MUSICALES ############################################################################################################################################################################################################
+
 
 
 
@@ -342,14 +399,19 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png", Video Tour Channel  | CR
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-
 #EXTINF:0 channel-id="mtv-flow-latino-ptv1" channel-number="4790" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png" tvc-guide-art="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/featuredImage_1731834717859.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MTV Flow Latino" tvc-guide-description="Be immersed in the heart-pounding rhythms and vibrant melodies of Latin music's biggest stars." , MTV Flow Latino
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6bf70-c01c-11f0-a124-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=876f5f55-8c7a-4054-9591-14d6a1df9c18&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="yo-mtv" channel-number="4710" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Yo! MTV" tvc-guide-description="YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&B, and Latin artists to get any party started!" , Yo! MTV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6bc8c-c01c-11f0-83ea-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=487353bc-61d2-4263-9dba-61fa3c433dbf&userId=&serverSideAds=true
+
+
+
+
+VARIOS ############################################################################################################################################################################################################
+
+
+
 
 #EXTINF:0 channel-id="mtv-en-espanol" channel-number="4350" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/featuredImage-1641928374769.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="MTV en español" tvc-guide-description="¿Eres fan de los realities y la música? MTV en español te ofrece un mix de los realities más descabellados como Catfish, Are You the One? y Acapulco Shore. Además, toda la música que puedas desear. ¡Solo en español y solo por MTV en español!", MTV en español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b1f6-c01c-11f0-a6cf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4596d49-4a45-4604-a2be-92bc1444701b&userId=&serverSideAds=true
@@ -363,8 +425,14 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español", Comedy Central ES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
 
-EXTINF:-1 tvg-id="" tvg-name="Naturaleza" ,Naturaleza
-https://anym3u8player.com/youtube.php/id/690bf6de0cc9e.m3u8
+
+
+
+
+DOCUMENTALES ############################################################################################################################################################################################################
+
+
+
 
 #EXTINF:0 channel-id="construcciones-asombrosas" channel-number="4445" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png" tvc-guide-art="https://images.pluto.tv/channels/673249433a61d400087a51ed/featuredImage_1732128448239.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000", Construcciones Asombrosas
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b494-c01c-11f0-bf75-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=97a1a7d5-252a-4ddb-b0bc-abde4a0eb8e2&userId=&serverSideAds=true
@@ -388,8 +456,19 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b67e-c01c-11f0-b84e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d41c2b5c-3d1d-470b-a861-915ff6b0a23c&userId=&serverSideAds=true
 
 
-#EXTINF:0 channel-id="casos-de-la-dra-polo" channel-number="4390" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/60d393e5579a420007ee553c/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Casos de la Dra. Polo" tvc-guide-description="“He dicho, ¡Caso cerrado!” Disfruta de los casos más escandalosos, polémicos y divertidos de la Dra. Polo. No te pierdas lo mejor de Caso Cerrado y Sala de Parejas aquí, en Pluto TV.", Casos de la Dra. Polo
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b354-c01c-11f0-ad6e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786b84f8-274d-45f7-81bd-d8fbb0930b22&userId=&serverSideAds=true
+
+
+
+RADIOS Y CAMARAS DE ARG ############################################################################################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-id="MasFM.ar@SD",Más FM 95.9
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8 
+
+#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD",Power Max Radio TV
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
 EXTINF:-1 , Puente Gral Belgrano Ⓨ
 https://anym3u8player.com/youtube.php/id/6963cc4267027.m3u8
@@ -459,12 +538,153 @@ https://anym3u8player.com/youtube.php/id/6963d8a0d9b1a.m3u8
 
 
 
-##########################################################
+######################################################################################################################################################################################################################################################################
 
 
-Canales que no andan:
+
+
+
+
+Algunos links importantes 
+https://instagram.com/latamgrouph
+https://api.whatsapp.com/send?phone=00298281
+https://t.me/+cSr9aoH36AMwYzMx
+https://www.instagram.com/latamgrouph
+https://whatsapp.com/channel/0029Vaedv8T2ZjCeyB8pbM1N
+https://api.whatsapp.com/send?phone=51924530915&amp;text=Hola+me+gustaria+ser+cliente+premium+%C2%BFPodrian+brindarme+mas+informacion?
+https://www.myluchas.com
+https://www.tvporinternet2.com
+https://www.futbollibre2.com
+https://www.tvplusgratis2.com
+https://www.cineplusgratis.com
+https://www.televisiongratishd2.com
+https://www.telegratishd.com
+https://www.cablevisionhd.com
+https://www.telextrema.com
+https://mihd.tv
+
+
+
+
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
+
+
+
+
+
+
+
+######################################################################################################################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+CANALES DE PELICULAS ESPAÑOL GALLEGO ############################################################################################################################################################################################################
+
+
+
+#EXTINF:0 channel-id="csi-en-espanol" channel-number="4250" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI en Español", CSI en Español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6af80-c01c-11f0-92ab-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78d0e50c-9697-4aef-8bb9-0a212131d2b3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="csi-miami-en-espanol" channel-number="4260" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" tvc-guide-art="https://images.pluto.tv/channels/632b5950b515b000079e6b81/featuredImage_1731837335005.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI: Miami en español" tvc-guide-description="Ponte las gafas de sol y siente el calor. CSI: Miami fue la serie de televisión más popular del mundo y ahora la puedes ver cuando quieras en su canal de Pluto TV. Será suficiente para hacerte gritar: “YEEEEAAAAAHHH!”.", CSI: Miami en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b016-c01c-11f0-99c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db101fb7-07c3-4406-8fbc-db07c4fb2273&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="csi-ny-en-espanol" channel-number="4270" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png" tvc-guide-art="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/featuredImage_1731837279366.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI: NY en español" tvc-guide-description="La Gran Manzana necesita de los mejores investigadores. Acompaña al mejor equipo de Nueva York mientras siguen las pistas y atrapan a los sospechosos en el único canal que te trae CSI: NY cada día, todo el día, aquí en Pluto TV.", CSI: NY en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b07a-c01c-11f0-9278-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dbed597-c8eb-428f-8817-97e5b5144db3&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="the-walking-dead-en-espanol" channel-number="4280" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="The Walking Dead en español" tvc-guide-description="¡No importa lo que pase, pero no te dejes morder! Los zombis más escalofriantes de la televisión van sueltos 24 horas al día y 7 días a la semana en The Walking Dead en español. Sé parte del drama donde los muertos vivientes son los protagonistas." , The Walking Dead en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b0d4-c01c-11f0-b292-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16a42637-e439-4042-8348-8363689fffd5&userId=&serverSideAds=true
+
+EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español" tvc-guide-description="Comedy Central en español es un mundo de comedia súper divertida y lo tiene todo: series de ficción, animaciones, especiales de stand-up, formatos cortos y sketches." , Comedy Central en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
+
+
+
+
+
+
+
+
+########################################################################################################################################################################################################################################################################################################################################################################################################################
+POR ORGANIZAR ########################################################################################################################################################################################################################################################################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BBCDrama.uk@Spain",BBC Drama 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us@SD",Comedia Made in Spain [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+#EXTINF:-1 tvg-id="",Pluto TV Ana y los 7
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@Spain",Pluto TV Cine Acción 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.us@Spain",Pluto TV Cine Clásico 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@Spain",Pluto TV Cine Estelar 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCocina.us@Spain",Pluto TV Cocina [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCocina.us@Spain",Pluto TV Cocina 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCocina.us@Spain",Pluto TV Cocina (Spain)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=
+#EXTINF:-1 tvg-id="",Pluto TV Comedia (Made in Spain) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD",Pluto TV Forensic Files en ESP 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD",Pluto TV Forensic Files en ESP 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=51c75f7bb6f26ba1cd00002f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=989&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (Spain) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aab1d29b39600073e243f&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=910&terminate=false&userId=
+#EXTINF:-1 tvg-id="",Pluto TV MTV Catfish (Spain)  [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=
+#EXTINF:-1 tvg-id="MTVMusicMadeinSpain.us@Spain",Pluto TV MTV Music Made in Spain  [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="",Pluto TV MTV Originals (Spain) 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.us@Spain",Pluto TV Telenovelas 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="TheWalkingDeadenEspanol.us@SD",Pluto TV The Walking Dead ESP 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+#EXTINF:-1 tvg-id="TheWalkingDeadenEspanol.us@SD",Pluto TV The Walking Dead ESP 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.us@Spain",Pluto TV Toons Clásico 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+
+
+
+
+
+
+
+
+CANALES QUE NO ANDAN ########################################################################################################################################################################################################################################################################################################################################################################################################################
+
+
+
 C5N youtube (se corta)
-El Trece (sin señal)
 Telefe (sin señal)
 
 Chilecito TV (anda pero esta en negro siempre)
@@ -571,7 +791,6 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png",24/7 Futurama
 http://zutv.online:2086/live/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/35.ts
 
-
 EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" tvg-url="",24/7 Los Simpsons
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
@@ -584,120 +803,8 @@ https://d2nvs31859zcd8.cloudfront.net/ebcecdd073db50ee082c_wonderweiss_twitch_40
 EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe de Bel-Air" tvg-logo="https://static.wikia.nocookie.net/ytvwoah/images/b/bd/Spider-Man_1994.png" ,24/7 SPIDER-MAN
 http://zutv.online:2086/live/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/IPTVSFGHSGDHSDGBSDGBSGBSFGBIPTVSFGHSGDHSDGBSDGBSGBSFGB/69.ts
 
-
-##########################################################
-
-
-
-Algunos links importantes 
-https://instagram.com/latamgrouph
-https://api.whatsapp.com/send?phone=00298281
-https://t.me/+cSr9aoH36AMwYzMx
-https://www.instagram.com/latamgrouph
-https://whatsapp.com/channel/0029Vaedv8T2ZjCeyB8pbM1N
-https://api.whatsapp.com/send?phone=51924530915&amp;text=Hola+me+gustaria+ser+cliente+premium+%C2%BFPodrian+brindarme+mas+informacion?
-https://www.myluchas.com
-https://www.tvporinternet2.com
-https://www.futbollibre2.com
-https://www.tvplusgratis2.com
-https://www.cineplusgratis.com
-https://www.televisiongratishd2.com
-https://www.telegratishd.com
-https://www.cablevisionhd.com
-https://www.telextrema.com
-https://mihd.tv
-
-
-
-
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
-
-
-
-
-##########################################################
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" tvg-url="",24/7 Kenan & Kel 
-https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Yu-Gi-Oh%21_%28Logo%29.jpg" tvg-url="", 24/7 YuGiOh
-https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72b1fd3f-7af2-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-
-
-
-
-
-#EXTINF:0 channel-id="csi-en-espanol" channel-number="4250" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI en Español", CSI en Español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6af80-c01c-11f0-92ab-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78d0e50c-9697-4aef-8bb9-0a212131d2b3&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="csi-miami-en-espanol" channel-number="4260" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" tvc-guide-art="https://images.pluto.tv/channels/632b5950b515b000079e6b81/featuredImage_1731837335005.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI: Miami en español" tvc-guide-description="Ponte las gafas de sol y siente el calor. CSI: Miami fue la serie de televisión más popular del mundo y ahora la puedes ver cuando quieras en su canal de Pluto TV. Será suficiente para hacerte gritar: “YEEEEAAAAAHHH!”.", CSI: Miami en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b016-c01c-11f0-99c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db101fb7-07c3-4406-8fbc-db07c4fb2273&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="csi-ny-en-espanol" channel-number="4270" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png" tvc-guide-art="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/featuredImage_1731837279366.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CSI: NY en español" tvc-guide-description="La Gran Manzana necesita de los mejores investigadores. Acompaña al mejor equipo de Nueva York mientras siguen las pistas y atrapan a los sospechosos en el único canal que te trae CSI: NY cada día, todo el día, aquí en Pluto TV.", CSI: NY en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b07a-c01c-11f0-9278-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dbed597-c8eb-428f-8817-97e5b5144db3&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="the-walking-dead-en-espanol" channel-number="4280" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="The Walking Dead en español" tvc-guide-description="¡No importa lo que pase, pero no te dejes morder! Los zombis más escalofriantes de la televisión van sueltos 24 horas al día y 7 días a la semana en The Walking Dead en español. Sé parte del drama donde los muertos vivientes son los protagonistas." , The Walking Dead en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b0d4-c01c-11f0-b292-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16a42637-e439-4042-8348-8363689fffd5&userId=&serverSideAds=true
-
-
-EXTINF:0 channel-id="comedy-central-en-espanol" channel-number="4360" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png" tvc-guide-art="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/featuredImage_1731835670029.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Comedy Central en español" tvc-guide-description="Comedy Central en español es un mundo de comedia súper divertida y lo tiene todo: series de ficción, animaciones, especiales de stand-up, formatos cortos y sketches." , Comedy Central en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+EXTINF:-1 tvg-chno="9" tvg-id="Fox Kids Ty" tvg-name="Fox Kids Tv" tvg-logo="https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png",FoxKids TV
+http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
 
 EXTINF:-1 tvg-logo="http//chileiptv.cl/img/logos/logo_15165765881.jpg" , TVN Kids 
 
@@ -710,23 +817,14 @@ https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 EXTINF:-1 tvg-id="810" tvg-name="Club TV" tvg-logo="https://www.m3u.cl/logo/810_Club_TV.png", Club TV  | CL
 https://paneltv.online:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
 
-
-
 EXTINF:-1 tvg-id="506" tvg-name="Arirang" tvg-logo="https://www.m3u.cl/logo/506_Arirang.png", Arirang  | KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
-
 
 EXTINF:-1 tvg-id="510" tvg-name="KCTV Corea del Norte" tvg-logo="https://www.m3u.cl/logo/510_KCTV_Corea_del_Norte.png", KCTV Corea del Norte  | KP
 https://tv.nknews.org/tvhls/stream.m3u8?PlaylistM3UCL
 
-
-
 EXTINF:-1 tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://www.m3u.cl/logo/26_RCKStudio.png", RCKStudio  | CL
 https://inliveserver.com:1936/11530/11530/playlist.m3u8?PlaylistM3UCL
-
-
-
-
 
 EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV  | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
@@ -742,6 +840,7 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 
 EXTINF:-1,Hollywood HD
 http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/65949
+
 EXTINF:-1,Hollywood FHD (es)
 http://nettv-xcruiser.com:8000/sm1m28/w6JjvtU5vN/50324
 
@@ -756,8 +855,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar" ,Telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-
-
 
 EXTINF:-1 tvg-name="Barricada TV" tvg-logo="https://www.barricadatv.org/?p=23082" tvg-id="BarricadaTV.ar" ,Barricada TV
 https://live-ak.vimeocdn.com/exp=1696402364~acl=%2F9f41e203-241b-4eb7-b0b5-b1839903408f%2F%2A~hmac=d4819f301510676a986bfe610b664765ee2b1a23e1e1ca3214398f949a0b2778/9f41e203-241b-4eb7-b0b5-b1839903408f/hls.m3u8?min_seconds=30
@@ -774,20 +871,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es",Paramount Network
 http://185.189.225.150:85/Paramount/index.m3u8
 
-
-
 EXTINF:-1 tvg-id="ATVArgentina.ar@SD",ATV Argentina 
 https://tv.streaming.com.bo/atvargentina/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MasFM.ar@SD",Más FM 95.9
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8 
-
-#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD",Power Max Radio TV
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-
-#EXTINF:-1 tvg-id="QuanticaTV.ar@SD",Quantica TV 
-https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 EXTINF:-1 tvg-id="QuatroTV.ar@SD",Quatro TV (540p) 
 https://stream.arcast.live/quatro/quatro/playlist.m3u8 
@@ -797,7 +882,6 @@ https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 
 EXTINF:-1 tvg-id="RadioMitre.ar@SD",Radio Mitre 
 https://live-05-13-mitre.vodgc.net/live-05-13-mitre/index.m3u8
-
 
 EXTINF:-1 tvg-id="SonyChannel.ar@SD",Sony Channel (1080p) 
 http://38.183.182.166:8000/play/a0vg/index.m3u8
@@ -811,17 +895,11 @@ http://104.238.205.28:8989/278773_.m3u8
 EXTINF:-1 tvg-id="TelefeInternacional.ar@SD",Telefe Internacional (720p) 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?advertisingId=PSID&appVersion=unknown&deviceDNT=TARGETOPT&deviceId=PSID&deviceLat=90&deviceLon=0&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&deviceVersion=unknown&embedPartner=&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-
 EXTINF:-1 tvg-id="Telenord.ar@SD",Telenord (720p) [Not 24/7] 
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8 
 
-
-
-
-
-EXTINF:-1 tvg-chno="9" tvg-id="Fox Kids Ty" tvg-name="Fox Kids Tv" tvg-logo="https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png",FoxKids TV
-http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
-
+EXTINF:-1 , Tom y Jerry Ⓨ
+https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
 
 
 
@@ -847,85 +925,20 @@ http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
 
 
 
+ZONA DE PRUEBA ########################################################################################################################################################################################################################################################################################################################################################################################################################
 
 
 
 
 
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="TV Pública" group-title="Argentina",TV Pública
+https://ruta/stream/oficial-de-tvpublica.m3u8
 
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="Todo Noticias" group-title="Argentina",Todo Noticias
+https://ruta/stream/oficial-de-tn.m3u8
 
-
-#EXTINF:-1 tvg-id="BBCDrama.uk@Spain",BBC Drama (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="ComediaMadeinSpain.us@SD",Comedia Made in Spain (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
-#EXTINF:-1 tvg-id="",Pluto TV Ana y los 7 (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@Spain",Pluto TV Cine Acción (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVCineClasico.us@Spain",Pluto TV Cine Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@Spain",Pluto TV Cine Estelar (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVCocina.us@Spain",Pluto TV Cocina (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVCocina.us@Spain",Pluto TV Cocina (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVCocina.us@Spain",Pluto TV Cocina (Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=
-#EXTINF:-1 tvg-id="",Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="ForensicFiles.us@SD",Pluto TV Forensic Files en ESP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
-#EXTINF:-1 tvg-id="ForensicFiles.us@SD",Pluto TV Forensic Files en ESP (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=51c75f7bb6f26ba1cd00002f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=989&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVKids.us@Spain",Pluto TV Kids (Spain) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aab1d29b39600073e243f&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=910&terminate=false&userId=
-#EXTINF:-1 tvg-id="",Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=
-#EXTINF:-1 tvg-id="MTVMusicMadeinSpain.us@Spain",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="",Pluto TV MTV Originals (Spain) (480p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVTelenovelas.us@Spain",Pluto TV Telenovelas (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="TheWalkingDeadenEspanol.us@SD",Pluto TV The Walking Dead ESP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
-#EXTINF:-1 tvg-id="TheWalkingDeadenEspanol.us@SD",Pluto TV The Walking Dead ESP (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVToonsClasico.us@Spain",Pluto TV Toons Clásico (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="TyC Sports" group-title="Argentina",TyC Sports
+https://ruta/stream/oficial-de-tycsports.m3u8
 
 
 
