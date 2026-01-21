@@ -19,7 +19,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="https://i.imgur.com/xqgRFpC.png",Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
+EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13Max TV Corrientes 
@@ -55,29 +55,29 @@ https://unlimited1-cl-unlimited.tntv.com.ar/c9/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Principal)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://telefe.com/
+EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Principal)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+EXTVLCOPT:http-referrer=https://telefe.com/
 https://viacom-telefe-1-ar.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.Alt" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.mitelefe.com/
+EXTINF:-1 tvg-id="Telefe.Alt" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativo)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+EXTVLCOPT:http-referrer=https://www.mitelefe.com/
 https://telefe-samsung-ar.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.Alt2" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 2 - Amagi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
+EXTINF:-1 tvg-id="Telefe.Alt2" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 2 - Amagi)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
 https://viacom-telefe-ar.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.Alt3" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 3 - Pluto Service)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pluto.tv/
+EXTINF:-1 tvg-id="Telefe.Alt3" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 3 - Pluto Service)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+EXTVLCOPT:http-referrer=https://pluto.tv/
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f33060d4b89f500076a084c/master.m3u8?advertisingId=&creativeId=&deviceDNT=0&deviceId=DEVICE_ID&deviceMake=Samsung&deviceModel=Samsung&deviceType=samsung_tvplus&deviceVersion=1.0&appVersion=1.0&sessionID=1
 
-#EXTINF:-1 tvg-id="Telefe.Alt4" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 4 - Direct Stream)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://telefe.com/
+EXTINF:-1 tvg-id="Telefe.Alt4" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png" group-title="Aire Argentina",Telefe (Alternativa 4 - Direct Stream)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+EXTVLCOPT:http-referrer=https://telefe.com/
 https://live-telefe.strm.com.ar/telefe/index.m3u8
 
 
@@ -123,9 +123,9 @@ https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://files.catbox.moe/lanacionplus.png",La Nación +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.lanacion.com.ar/
+EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://files.catbox.moe/lanacionplus.png",La Nación +
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+EXTVLCOPT:http-referrer=https://www.lanacion.com.ar/
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 
 EXTINF:-1 tvg-id="0904" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
@@ -134,11 +134,11 @@ https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N Ⓨ" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj",C5N Ⓨ
 https://anym3u8player.com/youtube.php/id/6963e441a9065.m3u8
 
-#EXTINF:-1 group-title="Amerika",Argentina - C5N
+EXTINF:-1 group-title="Amerika",Argentina - C5N
 rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1
 
 
-#EXTINF:-1 tvg-name="C5N Argentina (repo)" ,C5N
+EXTINF:-1 tvg-name="C5N Argentina (repo)" ,C5N
 https://iptv-org.github.io/iptv/channels/ar/C5N.m3u8
 
 
@@ -149,7 +149,7 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
+EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
 
 EXTINF:-1 ,Ar|12 Ⓨ
@@ -999,481 +999,4 @@ https://anym3u8player.com/youtube.php/id/6963cec15300b.m3u8
 ZONA DE PRUEBA ########################################################################################################################################################################################################################################################################################################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/AnimeAllDay.png",Anime All Day
-https://cnev-animeallday-samsung.amagi.tv/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&Referer=https://www.samsungtvplus.com/
 
-
-
-#EXTINF:-1 tvg-id="VixAnime.us" tvg-name="Vix: Anime" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/VixAnime.png" group-title="Anime Español",Vix: Anime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://vix-anime-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTVCinemaJapones.us" tvg-name="Canela.TV Cinema Japonés" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/CanelaTVCinemaJapones.png" group-title="Anime Español",Canela.TV Cinema Japonés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://canelatv-cinemajapones-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/AnimeAllDay.png" group-title="Anime",Anime All Day
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://cnev-animeallday-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/RetroCrush.png" group-title="Anime",RetroCrush
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://retrocrush-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Pokemon.us" tvg-name="Pokémon" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/Pokemon.png" group-title="Kids",Pokémon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://pokemon-samsung.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="VixAccion" tvg-name="Vix: Acción" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/vix/Accion.png" group-title="Películas Español",Vix: Acción
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vix.com/
-https://vix-accion-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVCineEstelar" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/pluto-tv/us/CineEstelar.png" group-title="Películas Español",Pluto TV Cine Estelar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pluto.tv/
-https://pluto-cine-estelar-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VixNovelas" tvg-name="Vix: Novelas" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/vix/Novelas.png" group-title="Series Español",Vix: Novelas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vix.com/
-https://vix-novelas-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EstrellaTV" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/EstrellaTV.png" group-title="Variedades Español",Estrella TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://estrellatv-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-name="Canela TV Películas" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/canela-tv/Peliculas.png" group-title="Películas Español",Canela TV Películas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.canela.tv/
-https://canelatv-cinemexicano-samsung.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="VixAccion" tvg-name="Vix: Acción" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/vix/Accion.png" group-title="Películas Español",Vix: Acción
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vix.com/
-https://vix-accion-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVCineEstelar" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/pluto-tv/us/CineEstelar.png" group-title="Películas Español",Pluto TV Cine Estelar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pluto.tv/
-https://pluto-cine-estelar-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VixNovelas" tvg-name="Vix: Novelas" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/vix/Novelas.png" group-title="Series Español",Vix: Novelas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vix.com/
-https://vix-novelas-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EstrellaTV" tvg-name="Estrella TV" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/samsung-plus/us/EstrellaTV.png" group-title="Variedades Español",Estrella TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://estrellatv-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanelaTV" tvg-name="Canela TV Películas" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/canela-tv/Peliculas.png" group-title="Películas Español",Canela TV Películas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.canela.tv/
-https://canelatv-cinemexicano-samsung.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="LNMas" tvg-name="LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/La_Naci%C3%B3_Mas.png/250px-La_Naci%C3%B3_Mas.png" group-title="Noticias Argentina",LN+ (La Nación Mas)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.lanacion.com.ar/
-https://unlimited1-cl-unlimited.tntv.com.ar/ln_mas/index.m3u8
-
-#EXTINF:-1 tvg-id="TN" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Todo_Noticias_2016.svg/1200px-Todo_Noticias_2016.svg.png" group-title="Noticias Argentina",TN (Todo Noticias)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tn.com.ar/
-https://live-tn.strm.com.ar/tn/index.m3u8
-
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/C5N_Logo_2020.png/1200px-C5N_Logo_2020.png" group-title="Noticias Argentina",C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.c5n.com/
-https://unlimited1-cl-unlimited.tntv.com.ar/c5n/index.m3u8
-
-#EXTINF:-1 tvg-id="CronicaTV" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cr%C3%B3nica_TV_logo_2021.png/1200px-Cr%C3%B3nica_TV_logo_2021.png" group-title="Noticias Argentina",Crónica TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cronica.com.ar/
-https://unlimited6-cl-unlimited.tntv.com.ar/cronica/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal26" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_26_logo.png/1200px-Canal_26_logo.png" group-title="Noticias Argentina",Canal 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.canal26.com/
-https://unlimited1-cl-unlimited.tntv.com.ar/canal26/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TN_YouTube" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Todo_Noticias_2016.svg" group-title="YouTube Live",TN (YouTube)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://ytdl.fgl.dev/publish/live/https://www.youtube.com/watch?v=S0Xy_W3Tcl0/master.m3u8
-
-#EXTINF:-1 tvg-id="C5N_YouTube" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/C5N_Logo_2020.png" group-title="YouTube Live",C5N (YouTube)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://ytdl.fgl.dev/publish/live/https://www.youtube.com/watch?v=U97M84r7wY0/master.m3u8
-
-
-
-
-
-
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml.gz"
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kqtZB_6WG36RuIrX7Npa_XgoeV-KK74HcQ7m9xWQcKI7E=s160-c-k-c0x00ffffff-no-rj", LN+ (La Nacion)
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/67f86f098d4666c5caa7c057.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c0b810c4-e4e9-4a33-9cb9-6f457b890510-profile_image-70x70.png", TeVeo Mendoza
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/684745a74aa83e8e245183f5.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://cloudfront-arc.cienradios.com/la100/logo/logoog.png", La 100 Argentina
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68161ed7f6da4751de46fe66.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", Canal 7 Mendoza
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681d7565ee6a3b3a85715f64.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Córdoba" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/30359190-1b8a-4157-a37b-f8c0247f197b-profile_image-70x70.png", TVEO Ric Cuarto
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68474319858814c7678b0752.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="24/7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrs6F_WGx11R1J9rjfsjgDnUJPb0F38JzM1g70q7JLCls=s160-c-k-c0x00ffffff-no-rj", Cafe Music BGM Channel
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6818f801aabfaa38263c56a3.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", America Tucuman
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6826d08c34f036e205adb256.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s160-c-k-c0x00ffffff-no-rj", Telefe
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681020c1e1f522d01a8a84b0.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNmtHm2S-HeI4aAXnjwPFirVS5kwBayQ8tg&s", El Nueve 2
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681aefee626edc70d7214ca9.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://i.imgur.com/HfyKPpD.png", El Doce Córdoba
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/67f6bc096ebc0fecbf2ca8f0.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://files.catbox.moe/za53j7.png", Bravo TV
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68103e445cb6d2826d29ba4f.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://files.catbox.moe/chk4rh.png", Ciudad Magazine
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/681041165bda46552a55a1d9.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://logowik.com/content/uploads/images/tvp-television-publica2725.logowik.com.webp", Televisión Pública
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68123d80fc32c725356b0d38.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/250px-Elsiete.webp.png", Siete Mendoza Argentina
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6871680e2ad54a01a9db8959.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Santa Fe-Rosario" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cae28b92-72b2-4523-ab24-85d1645ac2c3-profile_image-70x70.png", Canal 1 Sta Fe
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68474a324aa83e8e245183f6.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Argentina" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png", TierraMia TV
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68161e59f6da4751de46fe64.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Mendoza" tvg-logo="https://yt3.ggpht.com/rb2RIZEJgafAjjJgSgfz9xsi9SH311amSYRLysHW-qBTFLyaPrijcoDLdqQR609DY_G_g-Ia8LU=s48-c-k-c0x00ffffff-no-rj", Canal Siete Mendoza
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/688d07d2707ddd66ee1e6217.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.ggpht.com/oksN402135L1H8-iX1xbjVIuAk-ejMDPwSonVY0gSrLtxYuZwbGbJurculXj6J0LhwRf7JPBslk=s48-c-k-c0x00ffffff-no-rj", Radio 10 - AM 710
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/688b7409d4fdbaff3f9379a1.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7OiOHjajUw4VoGvdHU0Udf0dvASyayQnNkuz-x38azFIqb89fxLR3ZFLp8jGzeoVu1AYLKLMEMpd6rGT8bKe1IsaK8PhW3u46xTDQNNkLOJlHerPDXxM2fIuc43HLdoVGBaxsh1RmBOX1/s1600/canal4jujuy.png", Canal 4 Jujuy
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/6870055cb0440c66c98364b7.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://www.ubp.edu.ar/wp-content/uploads/2018/10/Canal-10.jpg", Canal 10 Córdoba
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68700bcbb0440c66c98364b8.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://files.kick.com/images/user/60074420/profile_image/conversion/4e83b575-4e63-43dd-b750-8b473a06b440-fullsize.webp", Canal C
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68654a0739a6f1af7b5d6779.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://static.wixstatic.com/media/b12542_c33d58aa53394f7b83e399dd4d8795eb~mv2.png", Radio Mitre
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/688991d390db6e91eaba7b6e.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Brasil" tvg-logo="https://play-lh.googleusercontent.com/Q4Qn1H426v4nKYZ8ybR-qtHdHInljTnofeC2KNtyys5Zid06KJYtoe3P3MZNWVbT_p8=w480-h960-rw", Radio Melodia FM - RJ
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68975c3a4b49764d1843c217.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Religión" tvg-logo="https://i.ibb.co/rRwP9VPr/2025-05-02-19-45-05.png", Enlace de TV
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68976000dd0d09fe8f99e62b.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://yt3.googleusercontent.com/vIYh4fJ4FiOeD0U8sGUEUZQf3DaK-PME00Ckh7cFf4CRmC3EHopvUsjbgYKhNVkFXURSzltWYQ=s160-c-k-c0x00ffffff-no-rj", America TV
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/68101db52c39687cbf23de92.m3u8?uid=celso0094&pkey=aMd8AQeX
-#EXTINF:-1 tvg-id="" group-title="Arg - Noticias" tvg-logo="https://telecentro.com.ar/img/cm/channels/america@2x.png", AmericaTV ARG
-https://api.m3use.projectmoose.xyz/m3u/celso0094/clone-of-Argentina/683907f5642fb5fce8d4c3cd.m3u8?uid=celso0094&pkey=aMd8AQeX
-
-
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.pinimg.com/736x/d7/70/c5/d770c5abeabe406a12a16a0e23c4f652.jpg", Tom & Jerry 24/7
-https://api.m3use.projectmoose.xyz/m3u/celso0094/CelsoS/696e9b5497eab43029bd783c.m3u8?uid=celso0094&pkey=aMd8AQeX
-
-
-
-
-#EXTINF:-1,Argentina - 99.1 Vorterix Bahía
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-rtmp://64.56.64.54/12606/12606.stream
-
-#EXTINF:-1,Argentina - AM 1010 Onda Latina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/ustreamVideo/8744353streams/live/playlist.m3u8
-
-#EXTINF:-1,Argentina - AM SPORTS ARGENTINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,Argentina - TN 24 Horas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tn.com.ar/
-rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live/tnmovil1 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/
-
-#EXTINF:-1,Argentina - C5N
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.c5n.com/
-rtmp://$OPT:rtmp-raw=rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com//js/c5n/jwplayer/player.swf live=1
-
-#EXTINF:-1,Argentina - C5N Argentina (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-rtmp://c5n.stweb.tv:1935/c5n/live
-
-#EXTINF:-1,Argentina - Camara De Diputados
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-rtmp://argos.hcdn.gob.ar/live/evento-1-2.stream
-
-#EXTINF:-1,Argentina - CANAL 10 ENTRE RIOS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
-
-#EXTINF:-1,Argentina - Canal 12 – Córdoba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-
-#EXTINF:-1,Argentina - CANAL 13 ARGENTINA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-
-#EXTINF:-1,Argentina - Canal 13 TD – Rio Cuarto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/ustreamVideo/1358413/streams/live/playlist.m3u8
-
-#EXTINF:-1,Argentina - Canal 26
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.canal26.com/
-http://200.115.194.1:8080/Canal26?MSWMExt=.asf
-
-#EXTINF:-1,Argentina - Canal 3 – Trelew
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-rtmp://198.49.76.226:1935/inovahd/inovahd
-
-#EXTINF:-1,Argentina - Canal 5 Tigre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
-
-#EXTINF:-1,Argentina - Canal 79 Mar del Plata
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-rtmp://144.76.17.146/cn79a/cn79a
-
-#EXTINF:-1,Argentina - Canal Rural 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
-
-#EXTINF:-1,Argentina - DOS 99.5 FM CORRIENTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://radiodos.coninfo.net:8500/stream?type=.flv&anticache=8342301029
-
-#EXTINF:-1,Argentina - JUJUY TV CANAL 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-rtsp://200.43.187.18/canal7
-
-#EXTINF:-1,Argentina - LAPACHO TV CANAL 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=http://www.lapachotv.com.ar/
-rtmp://$OPT:rtmp-raw=rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/
-
-#EXTINF:-1,Argentina - Nuestra Radio, Cordoba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/ustreamVideo/15271401/streams/live/playlist.m3u8
-
-#EXTINF:-1,Argentina - Quiero Musica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-mms://200.42.92.6:1755/qmusica
-
-#EXTINF:-1,Argentina - TN24 AR (HD Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tn.com.ar/
-rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd3 swfUrl=http://tn.com.ar/sites/all/themes/dientuki/swf/dplayer/player.swf live=1 pageUrl=http://tn.com.ar/envivo/24hs/HD
-
-#EXTINF:-1,Argentina - Tucuman Canal 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
-
-#EXTINF:-1,Argentina - VIVRA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.ustream.tv/
-http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Telefe_logo.svg/1200px-Telefe_logo.svg.png",Telefe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://telefe.com/
-https://viacom-telefe-1-ar.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElTrece" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTV" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Am%C3%A9rica_TV_logo_2016.png/1200px-Am%C3%A9rica_TV_logo_2016.png",América TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.americatv.com.ar/
-https://unlimited6-cl-unlimited.tntv.com.ar/america_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TyC_Sports_logo_2020.png/1200px-TyC_Sports_logo_2020.png",TyC Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.tycsports.com/
-https://tyc-samsung-ar.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fox_Sports_logo.svg/1200px-Fox_Sports_logo.svg.png",Fox Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://foxsports-ar-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineCanal" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Cinecanal_2022.png",Cinecanal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://vix.com/
-https://vix-peliculas-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TNT_logo_%282016%29.svg/1200px-TNT_logo_%282016%29.svg.png",TNT (Cine)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.samsungtvplus.com/
-https://tnt-cine-ar-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nickelodeon_2023.svg/1200px-Nickelodeon_2023.svg.png",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pluto.tv/
-https://pluto-nick-latino-samsung.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="VixAccion" tvg-name="Vix Acción",Vix Películas Acción
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://vix.com/
-https://vix-accion-samsung.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/TeledeporteTVE.png",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rtve.es/
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-#EXTINF:-1 tvg-id="Canal7Neuquen" tvg-name="Canal 7 Neuquén" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/1401_Canal_7_Neuquen.png",Canal 7 Neuquén
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.canal7neuquen.com.ar/
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Canal9Televida" tvg-name="Canal 9 Televida Mendoza" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/9Televida.png",Canal 9 Televida Mendoza
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.elnueve.com/
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="RetroMagico" tvg-name="Retro Magico" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/1364_Retro_Magico.png",Retro Magico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.bozztv.com/
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="RetroMagico" tvg-name="Retro Magico" tvg-logo="https://raw.githubusercontent.com/matthuisman/itv-logos/master/misc/1364_Retro_Magico.png",Retro Magico
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png",Naturescape
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4c8e6-c01c-11f0-a85b-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ba339e1-20f0-49b5-802f-40867f9d9f6a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="the-pet-collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png",The Pet Collective
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4c940-c01c-11f0-be6d-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dd58bff-27ba-4f43-90d2-55dcd6c07464&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="dog-whisperer" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png",Dog Whisperer with Cesar Millan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/664fd48894d5580008e45e7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4c9b8-c01c-11f0-99f7-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2634ab8d-b354-4f05-8acd-0afa94566f88&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",Nick Jr. Pluto TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4ca12-c01c-11f0-8976-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=120bfdc8-d0a6-46fd-ae72-40bc2a7878dd&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="mister-rogers" tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png",Mister Rogers' Neighborhood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cad0-c01c-11f0-9a93-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5fb5aacc-bcdb-4363-8b96-e6a15afef465&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="peppapig" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png",Peppa Pig
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cb34-c01c-11f0-a329-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ecb4bd87-a501-4b4a-889a-cd07fb04bd7e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="little-stars" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png",Little Stars Universe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cb98-c01c-11f0-8d92-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1818eae6-1dfb-4d10-996e-29a0b0931be9&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="little-angels" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png",Little Angel's Playroom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cbf2-c01c-11f0-9847-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b47fa350-0d23-4844-83c0-552983c0e58b&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="little-angels-es" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png",Little Angel's Playroom en Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cc4c-c01c-11f0-9164-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ed95a75-86ea-4b3a-b5dd-a9abc8aadbf8&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="el-reino-infantil" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png",El Reino Infantil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66fedd65d7de140008dccd66/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cca6-c01c-11f0-8c20-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9227234f-98bc-4ce8-bf98-a2e1b3b9764c&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="baby-shark" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG_1754073070812.png",Baby Shark TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cd14-c01c-11f0-be1c-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=758d4f7d-8e4c-4b83-b400-2b0ace8bafea&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",Nickelodeon Pluto TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cd6e-c01c-11f0-9922-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab4400e8-c78a-45ed-910b-b45adc5e9fa0&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="nick-es" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",Nickelodeon en español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cdc8-c01c-11f0-a429-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14f14a1e-f777-4e57-9677-d089c7518e41&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="90s-kids" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",90's Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4ce22-c01c-11f0-9a41-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=336f37e7-4d5d-42f0-a41e-52c47718bbe5&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="90s-kids-2" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png",90s Kids TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4ce86-c01c-11f0-8f95-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db927f18-7f15-45bb-8094-961dfd3ec4ef&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="icarly" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png",iCarly TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cf3a-c01c-11f0-97c2-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af3771d5-b6e0-42cb-a12a-239f4be1159d&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="tmnt" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",TOTALLY TURTLES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
