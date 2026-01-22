@@ -142,6 +142,16 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Bics Extra", IP TV
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
+#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias | AR
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1696" tvg-name="Videoclub" tvg-logo="https://cdn.m3u.cl/logo/1696_Videoclub.png", Videoclub | AR
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1462" tvg-name="Inminente TV" tvg-logo="https://cdn.m3u.cl/logo/1462_Inminente_TV.png", Inminente TV | AR
+https://tuvideoonline.com.ar:3673/live/ideasdelcielolive.m3u8?PlaylistM3UCL
+
+
 EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
 
@@ -206,8 +216,10 @@ CANALES DE DEPORTES Y AUTOS ####################################################
 
 
 
-EXTINF:-1 tvg-name="DeporTV Argentia" ,DeporTV
-https://iptv-org.github.io/iptv/channels/ar/DeporTV.m3u8
+
+
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png", DEPORTV | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
@@ -351,6 +363,12 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://cdn.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8? 
+
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime | CL
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro | CL
+https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="AnimeVision.es@SD", Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
