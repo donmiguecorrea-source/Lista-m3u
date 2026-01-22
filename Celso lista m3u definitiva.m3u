@@ -108,6 +108,9 @@ https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
+#EXTINF:-1 group-title="Bics Extra", La Nacion
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
 EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://files.catbox.moe/lanacionplus.png",La Nación +
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 EXTVLCOPT:http-referrer=https://www.lanacion.com.ar/
